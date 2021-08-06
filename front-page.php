@@ -6,13 +6,12 @@
          <p>approach to </p> 
          <p>volume design. </p>
 
-         <hr></hr>
+        <p class="ban-line"></p>
 
          <p>Want to learn more?</p>
 
          
 </div>
-
 <div class="ban-button">
 <button class="custom-btn btn-15">Read More</button>
 </div>
@@ -54,7 +53,24 @@
     </div>
 
 
-   
+    
+
+
+</div>
+
+
+<div class="section-create">
+    <div class="create-border">
+    <svg xmlns="http://www.w3.org/2000/svg" width="1070" height="418.075" viewBox="0 0 1070 418.075">
+  <g id="Rectangle_1485" data-name="Rectangle 1485" fill="none" stroke="#e7dbd0" stroke-width="18">
+    <path d="M44,0h982a44,44,0,0,1,44,44V374.075a44,44,0,0,1-44,44H0a0,0,0,0,1,0,0V44A44,44,0,0,1,44,0Z" stroke="none"/>
+    <path d="M44,9h982a35,35,0,0,1,35,35V374.075a35,35,0,0,1-35,35H18a9,9,0,0,1-9-9V44A35,35,0,0,1,44,9Z" fill="none"/>
+  </g>
+</svg>
+
+
+
+    </div>
 
 
 </div>

@@ -29,8 +29,10 @@ a, a:hover, button, button:hover {
 }
 
 .forge-nav {
-    position:fixed;
-    width: 100vw;
+    top: 0;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
     height: 80px;
     background-color: black;
 }
@@ -56,7 +58,7 @@ a, a:hover, button, button:hover {
 }
 
 .forge-name {
-    position: relative;
+    
     padding-top: 7%;
     padding-left: 15%;
 }
@@ -79,10 +81,21 @@ a, a:hover, button, button:hover {
     overflow-wrap: normal;
 }
 
+.ban-line {
+    width: 65%;
+    border-bottom: 3px solid white;
+}
+
 .ban-button {
     position:absolute;
     padding-top: 18%;
     padding-left: 70%;
+}
+
+
+.section-create {
+    height: 500px;
+    background-color: #FCB31F ;
 }
 
 
@@ -255,7 +268,7 @@ a, a:hover, button, button:hover {
 .btn-15 {
     background: #FCB31F;
     border: none;
-    z-index: 1;
+    z-index: 0;
   }
   .btn-15:after {
     position: absolute;
