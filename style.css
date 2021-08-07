@@ -296,3 +296,20 @@ a, a:hover, button, button:hover {
     top: 2px;
   }
   
+
+
+/* media queries */
+
+@media only screen  and (max-width: 1024px)  {
+
+  .banner {
+    height: 100vw;
+    background: linear-gradient(180deg, rgba(252,179,31,1) 50%, rgba(0,0,0,1) 50%);
+  }
+
+
+  .banner-arrow {
+    display: none;
+  }
+  
+}
