@@ -59,12 +59,12 @@ a, a:hover, button, button:hover {
 
 .forge-name {
     
-    padding-top: 7%;
+    padding-top: 10%;
     padding-left: 15%;
 }
 
 .banner-arrow {
-    padding-top: 6%;
+    padding-top: 4%;
     padding-left: 50%;
 
 }
@@ -72,7 +72,7 @@ a, a:hover, button, button:hover {
 .black-text {
     position: absolute;
     line-height: 70%;
-    padding-top: 35px;
+    padding-top: 100px;
     padding-left: 70%;
     color: #FCB31F;
     font-size: 42px;
@@ -88,7 +88,7 @@ a, a:hover, button, button:hover {
 
 .ban-button {
     position:absolute;
-    padding-top: 18%;
+    padding-top: 22%;
     padding-left: 70%;
 }
 
@@ -306,10 +306,26 @@ a, a:hover, button, button:hover {
     height: 100vw;
     background: linear-gradient(180deg, rgba(252,179,31,1) 50%, rgba(0,0,0,1) 50%);
   }
+  
+  .forge-name {
+    padding-top: 15%;
+  }
+
+  .black-text {
+    padding-top: 55%;
+    padding-left: 200px;
+  }
 
 
   .banner-arrow {
     display: none;
   }
+
+  .ban-button {
+    
+    padding-top: 80%;
+    padding-left: 40%;
+  }
+  
   
 }
