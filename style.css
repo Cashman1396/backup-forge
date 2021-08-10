@@ -113,6 +113,7 @@ a, a:hover, button, button:hover {
 }
 
 .create-border {
+  position: relative;
   padding-top: 6%;
   padding-left: 15%;
 
@@ -126,11 +127,14 @@ a, a:hover, button, button:hover {
   font-size: 72px;
   padding-left: 20%;
   padding-top: 9%;
-  line-height: 50%;
-  
-  
+  line-height: 75%;
 
 }
+
+.excerpt {
+  position: absolute;
+}
+
 
 
 

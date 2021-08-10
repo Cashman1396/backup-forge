@@ -74,11 +74,23 @@
 
 <div class="section-create">
     <div class="section-text">
-        <p>CREATIVITY</p> 
-        <p>AND DESIGN</p>
-        <p>FIRST.</p>
+        <p>CREATIVITY <br>
+           AND DESIGN <br>
+           FIRST.</p>
     </div>
+    <div class="excerpt">
+    <p> When you need to seamlessly deliver <br>
+        strategic, adaptable design across complex <br>
+         systems, Forge is the answer. </p>
 
+    <p>In traditional production-driven processes, <br>
+     it’s too easy for brand strategy and design <br>
+     intent to get lost in translation. Our <br>
+     passionate volume design experts are <br> 
+     trained to understand and successfully<br>
+     extend strategic design systems… <br>
+     regardless of architectural complexity. </p>
+</div>
     <div class="create-border">
     <svg xmlns="http://www.w3.org/2000/svg" width="1070" height="418.075" viewBox="0 0 1070 418.075">
   <g id="Rectangle_1485" data-name="Rectangle 1485" fill="none" stroke="#e7dbd0" stroke-width="18">
