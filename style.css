@@ -60,12 +60,12 @@ a, a:hover, button, button:hover {
 .forge-name {
     
     padding-top: 10%;
-    padding-left: 15%;
+    padding-left: 20%;
 }
 
 .banner-arrow {
     padding-top: 4%;
-    padding-left: 50%;
+    padding-left: 47%;
 
 }
 
@@ -78,10 +78,17 @@ a, a:hover, button, button:hover {
     font-size: 42px;
     font-weight: bold;
     text-align: left;
-    overflow-wrap: normal;
+    overflow-wrap:break-word;
 }
 
+.mobile-black-text {
+  display: none;
+}
+
+
+
 .ban-line {
+    padding-left: 0;
     width: 65%;
     border-bottom: 3px solid white;
 }
@@ -94,10 +101,25 @@ a, a:hover, button, button:hover {
 
 
 .section-create {
-    height: 500px;
+    height: 550px;
     background-color: #FCB31F ;
 }
 
+.create-border {
+  padding-top: 6%;
+  padding-left: 15%;
+
+}
+
+
+.brand-forge {
+  height: 550px;
+  background: black;
+}
+
+.mobile-border {
+  display: none;
+}
 
 
 #menuToggle
@@ -312,8 +334,20 @@ a, a:hover, button, button:hover {
   }
 
   .black-text {
-    padding-top: 55%;
-    padding-left: 200px;
+    display: none;
+  }
+
+  .mobile-black-text {
+    position: absolute;
+    text-align: center;
+    padding-top: 60%;
+    padding-left: 25%;
+    display: block;
+    line-height: 70%;
+    color: #FCB31F;
+    font-size: 42px;
+    font-weight: bold;
+
   }
 
 
@@ -321,10 +355,24 @@ a, a:hover, button, button:hover {
     display: none;
   }
 
+  .ban-line {
+
+    width: 80%;
+  }
+
   .ban-button {
     
-    padding-top: 80%;
+    padding-top: 85%;
     padding-left: 40%;
+  }
+
+  .create-border {
+    display: none;
+  }
+
+  .mobile-border {
+    display: block;
+    padding-left: 6%;
   }
   
   

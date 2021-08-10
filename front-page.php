@@ -2,15 +2,28 @@
 <div class="banner"> 
 
 <div class="black-text">
-        <p>Brand-led</p>
+        <p>Brand-led </p>
          <p>approach to </p> 
          <p>volume design. </p>
+
 
         <p class="ban-line"></p>
 
          <p>Want to learn more?</p>
 
+
          
+</div>
+<div class="mobile-black-text">
+        <p>Brand-led approach </p> 
+         <p>to volume design. </p>
+
+         <p class="ban-line"></p>
+
+        <p>Want to learn more?</p>
+
+
+
 </div>
 <div class="ban-button">
 <button class="custom-btn btn-15">Read More</button>
@@ -67,10 +80,28 @@
     <path d="M44,9h982a35,35,0,0,1,35,35V374.075a35,35,0,0,1-35,35H18a9,9,0,0,1-9-9V44A35,35,0,0,1,44,9Z" fill="none"/>
   </g>
 </svg>
+</div>
 
 
+    <div class="mobile-border">
+    <svg xmlns="http://www.w3.org/2000/svg" width="698" height="567.529" viewBox="0 0 698 567.529">
+  <g id="Rectangle_1508" data-name="Rectangle 1508" fill="none" stroke="#e7dbd0" stroke-width="16">
+    <path d="M44,0H654a44,44,0,0,1,44,44V523.529a44,44,0,0,1-44,44H0a0,0,0,0,1,0,0V44A44,44,0,0,1,44,0Z" stroke="none"/>
+    <path d="M44,8H654a36,36,0,0,1,36,36V523.529a36,36,0,0,1-36,36H16a8,8,0,0,1-8-8V44A36,36,0,0,1,44,8Z" fill="none"/>
+  </g>
+</svg>
 
     </div>
+
+
+   
+
+
+</div>
+
+
+
+<div class="brand-forge">
 
 
 </div>
