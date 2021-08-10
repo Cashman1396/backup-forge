@@ -6,6 +6,13 @@ a {
 }
 */
 
+@font-face {
+  font-family: "industry", sans-serif;
+  font-display: swap;
+  src: url("/fonts/industry-bold-webfont.woff2") format("woff2"),
+       url("/fonts/industry-bold-webfont.woff") format("woff");
+
+}
 
 .home {
     border-radius: 10px;
@@ -90,7 +97,7 @@ a, a:hover, button, button:hover {
 .ban-line {
     padding-left: 0;
     width: 65%;
-    border-bottom: 3px solid white;
+    border-bottom: 5px solid white;
 }
 
 .ban-button {
@@ -110,6 +117,21 @@ a, a:hover, button, button:hover {
   padding-left: 15%;
 
 }
+
+
+.section-text {
+  position: absolute;
+  font-family: industry, sans-serif;
+  font-weight: bold;
+  font-size: 72px;
+  padding-left: 20%;
+  padding-top: 9%;
+  line-height: 50%;
+  
+  
+
+}
+
 
 
 .brand-forge {
@@ -356,8 +378,9 @@ a, a:hover, button, button:hover {
   }
 
   .ban-line {
-
-    width: 80%;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 85%;
   }
 
   .ban-button {
@@ -366,13 +389,19 @@ a, a:hover, button, button:hover {
     padding-left: 40%;
   }
 
+  .section-create {
+    height: 650px;
+  }
+
   .create-border {
     display: none;
+
   }
 
   .mobile-border {
     display: block;
-    padding-left: 6%;
+    padding-left: 7%;
+    padding-top: 5%;
   }
   
   
