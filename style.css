@@ -106,6 +106,10 @@ a, a:hover, button, button:hover {
     padding-left: 70%;
 }
 
+.mobile-arrow {
+  display: none;
+}
+
 
 .section-create {
     height: 550px;
@@ -133,6 +137,12 @@ a, a:hover, button, button:hover {
 
 .excerpt {
   position: absolute;
+  padding-left: 60%;
+  padding-top: 10%;
+}
+
+.mobile-excerpt {
+  display: none;
 }
 
 
@@ -141,6 +151,23 @@ a, a:hover, button, button:hover {
 .brand-forge {
   height: 550px;
   background: black;
+}
+
+.forge-text {
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+  padding-left: 5%;
+  padding-top: 5%;
+  
+} 
+
+.brand-line {
+  font-size: 62px;
+  font-weight: bold;
+  color: #FCB31F;
+  line-height: 100%;
+  padding-left: 5%;
 }
 
 .mobile-border {
@@ -392,20 +419,45 @@ a, a:hover, button, button:hover {
     padding-top: 85%;
     padding-left: 40%;
   }
+  
+  .mobile-arrow {
+    display: block;
+    position: absolute;
+    padding-top: 55%;
+    padding-left: 90%;
+  }
 
   .section-create {
     height: 650px;
+  }
+
+  .section-text {
+    position: absolute;
+    padding-top: 15%;
   }
 
   .create-border {
     display: none;
 
   }
+  
 
   .mobile-border {
     display: block;
+    position: absolute;
     padding-left: 7%;
     padding-top: 5%;
+  }
+
+  .excerpt {
+    display: none;
+  }
+
+  .mobile-excerpt {
+    position: absolute;
+    display: block;
+    padding-top: 45%;
+    padding-left: 20%;
   }
   
   

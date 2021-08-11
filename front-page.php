@@ -65,11 +65,26 @@
     </div>
     </div>
 
+    <div class="mobile-arrow">
+        <svg xmlns="http://www.w3.org/2000/svg" width="67" height="67" viewBox="0 0 67 67">
+            <g id="Group_985" data-name="Group 985" transform="translate(-716 -762)">
+            <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(716 762)" fill="none" stroke="#fff" stroke-width="5">
+             <circle cx="33.5" cy="33.5" r="33.5" stroke="none"/>
+            <circle cx="33.5" cy="33.5" r="31" fill="none"/>
+        </g>
+        <path id="Path_1807" data-name="Path 1807" d="M0,33.96,11.848,16.98,0,0" transform="translate(766.48 789.576) rotate(90)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="8"/>
+        </g>
+    </svg>
+
+    </div>
+
 
     
 
 
 </div>
+
+    
 
 
 <div class="section-create">
@@ -91,38 +106,62 @@
      extend strategic design systems… <br>
      regardless of architectural complexity. </p>
 </div>
+
+<div class="mobile-excerpt">
+<p> When you need to seamlessly deliver strategic, adaptable design <br>
+ across complex systems, Forge is the answer. </p>
+
+ <p>In traditional production-driven processes, it’s too easy for brand <br>
+     strategy and design intent to get lost in translation. Our passionate <br>
+     volume design experts are trained to understand and successfully <br>
+     extend strategic design systems… regardless of architectural <br>
+      complexity. </p>
+
+</div>
     <div class="create-border">
-    <svg xmlns="http://www.w3.org/2000/svg" width="1070" height="418.075" viewBox="0 0 1070 418.075">
-  <g id="Rectangle_1485" data-name="Rectangle 1485" fill="none" stroke="#e7dbd0" stroke-width="18">
-    <path d="M44,0h982a44,44,0,0,1,44,44V374.075a44,44,0,0,1-44,44H0a0,0,0,0,1,0,0V44A44,44,0,0,1,44,0Z" stroke="none"/>
-    <path d="M44,9h982a35,35,0,0,1,35,35V374.075a35,35,0,0,1-35,35H18a9,9,0,0,1-9-9V44A35,35,0,0,1,44,9Z" fill="none"/>
-  </g>
-</svg>
+    <svg xmlns="http://www.w3.org/2000/svg" width="1070" height="427.053" viewBox="0 0 1070 427.053">
+        <g id="Rectangle_1485" data-name="Rectangle 1485" transform="translate(0 2.929)" fill="none" stroke="#e7dbd0" stroke-width="18">
+             <rect width="1070" height="418.075" rx="46" stroke="none"/>
+             <rect x="9" y="9" width="1052" height="400.075" rx="37" fill="none"/>
+         </g>
+        <g id="Group_829" data-name="Group 829" transform="translate(552.972 -432.744)">
+            <path id="Path_1748" data-name="Path 1748" d="M1202.295,834.522,1179.38,859.3h-33.215L1171,834.522h31.295" transform="translate(-836)" fill="#fcb31f" stroke="#fcb31f" stroke-width="1"/>
+        </g>
+            <path id="Path_1748-2" data-name="Path 1748" d="M1202.295,834.522,1179.38,859.3h-33.215L1171,834.522h31.295" transform="translate(-884 -834.022)" fill="#fcb31f" stroke="#fcb31f" stroke-width="1"/>
+    </svg>
+
+
 </div>
 
 
-    <div class="mobile-border">
-    <svg xmlns="http://www.w3.org/2000/svg" width="698" height="567.529" viewBox="0 0 698 567.529">
-  <g id="Rectangle_1508" data-name="Rectangle 1508" fill="none" stroke="#e7dbd0" stroke-width="16">
-    <path d="M44,0H654a44,44,0,0,1,44,44V523.529a44,44,0,0,1-44,44H0a0,0,0,0,1,0,0V44A44,44,0,0,1,44,0Z" stroke="none"/>
-    <path d="M44,8H654a36,36,0,0,1,36,36V523.529a36,36,0,0,1-36,36H16a8,8,0,0,1-8-8V44A36,36,0,0,1,44,8Z" fill="none"/>
-  </g>
-</svg>
+<div class="mobile-border">
+    <svg xmlns="http://www.w3.org/2000/svg" width="698" height="573.775" viewBox="0 0 698 573.775">
+        <g id="Rectangle_1508" data-name="Rectangle 1508" transform="translate(0 0.929)" fill="none" stroke="#e7dbd0" stroke-width="16">
+            <path d="M44,0H654a44,44,0,0,1,44,44V523.529a44,44,0,0,1-44,44H0a0,0,0,0,1,0,0V44A44,44,0,0,1,44,0Z" stroke="none"/>
+            <path d="M44,8H654a36,36,0,0,1,36,36V523.529a36,36,0,0,1-36,36H16a8,8,0,0,1-8-8V44A36,36,0,0,1,44,8Z" fill="none"/>
+        </g>
+            <path id="Path_1748" data-name="Path 1748" d="M1196.01,834.522,1175.661,859.3h-29.5l22.054-24.775h27.791" transform="translate(-913.352 -834.022)" fill="#fcb31f" stroke="#fcb31f" stroke-width="1"/>
+            <path id="Path_1748-2" data-name="Path 1748" d="M1196.01,834.522,1175.661,859.3h-29.5l22.054-24.775h27.791" transform="translate(-654.069 -286.022)" fill="#fcb31f" stroke="#fcb31f" stroke-width="1"/>
+    </svg>
+
 
     </div>
-
-
-   
-
-
-   
-
 
 </div>
 
 
 
 <div class="brand-forge">
+    <div class="forge-text">
+        <p>The Forge Approach:</p>
+    </div>
+
+    <div class="brand-line">
+        <p> Brand Integrity, <br>
+            Design and <br>
+            Seamless Workflow </p>
+        
+    </div>
 
 
 </div>
