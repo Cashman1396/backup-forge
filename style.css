@@ -205,6 +205,43 @@ a, a:hover, button, button:hover {
   font-weight: bold;
 }
 
+.principles {
+  background: linear-gradient(90deg, rgba(0,0,0,1) 75%, rgba(252,179,31,1) 75%);
+  height: 600px;
+}
+
+.princeForge {
+  position: absolute;
+  color: #FCB31F;
+  font-family: industry, sans-serif;
+  font-size: 52px;
+  font-weight: bold;
+  padding-left: 5%;
+  padding-top: 3%
+}
+
+.princeDesign {
+  line-height: 16px;
+  color: #fff;
+  font-size: 20px;
+  padding-left: 40%;
+  padding-top: 5%;  
+}
+
+.infuse {
+  padding-top: 10%;
+}
+
+.infuse h6 {
+  color: white;
+  font-size: 22px;
+}
+
+.infuse p {
+  color:#fff;
+  font-size: 16px;
+}
+
 
 .mobile-border {
   display: none;

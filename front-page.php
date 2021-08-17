@@ -188,9 +188,63 @@
 
 </div>
 
-<div class="guide section">
+<div class="principles">
+<div class="mobileGuide">
+    <div class="prince">
+        <p class="princeForge">PRINCIPLES THAT <br> GUIDE FORGE</p>
+    </div>
+
+    <div class="princeDesign">
+        <p>Design and process is what drives the <br> 
+           efficiency of high volume adaptation<br>
+           programs the most. Forge is grounded in <br>
+           key principles that institute creativity, design, <br>
+           planning and technology to make our <br>
+           process efficient and cost effective.</p>
+    </div>
 
 
+    <div class="infuse">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.908" height="54.956" viewBox="0 0 54.908 54.956">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_15" data-name="Path 15" d="M183.689,554.463a2.966,2.966,0,1,1-5.932,0h-1.736V515.112h9.7v39.351Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_16" data-name="Path 16" d="M153.27,530.723a2.965,2.965,0,1,1,5.931,0h1.736v39.345h-9.7V530.723Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_823" data-name="Group 823" transform="translate(-60.299 -2683.38)">
+    <line id="Line_3" data-name="Line 3" y2="39.742" transform="translate(112.238 2683.38)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+    <path id="Path_13" data-name="Path 13" d="M168.477,554.854a12.243,12.243,0,1,0,24.485,0" transform="translate(-80.724 2168.268)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+    <g id="Group_20" data-name="Group 20" transform="translate(-80.724 2168.268)">
+      <g id="Group_19" data-name="Group 19" clip-path="url(#clip-path)">
+        <line id="Line_6" data-name="Line 6" y1="42.321" transform="translate(180.719 515.112)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5.938"/>
+      </g>
+    </g>
+    <line id="Line_4" data-name="Line 4" y2="24.506" transform="translate(87.753 2698.616)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+    <path id="Path_14" data-name="Path 14" d="M168.477,530.348a12.243,12.243,0,1,0-24.485,0" transform="translate(-80.724 2168.268)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+    <g id="Group_22" data-name="Group 22" transform="translate(-80.724 2168.268)">
+      <g id="Group_21" data-name="Group 21" clip-path="url(#clip-path-2)">
+        <line id="Line_7" data-name="Line 7" y1="42.31" transform="translate(156.235 527.757)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5.938"/>
+      </g>
+    </g>
+    <line id="Line_5" data-name="Line 5" y2="39.72" transform="translate(63.269 2698.616)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+  </g>
+</svg>
+
+    <h6>Infusion of <br>
+     agile principles</h6>
+
+     
+    <p>Maintaining focus & staying <br>
+     nimble saves time and <br>
+      money.</p>
+    </div>
+
+
+
+    </div>
 
 </div>
 
