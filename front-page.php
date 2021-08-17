@@ -179,7 +179,7 @@
         <br>
         <br>
 
-        <hr class="forgeEagle">
+        <p class="forgeEagle"></p>
         <p class="giantEagle">
             <span class="name">BRIAN</span>, DESIGN MANAGER <br>
             GIANT EAGLE </p>
