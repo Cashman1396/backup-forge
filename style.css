@@ -149,7 +149,7 @@ a, a:hover, button, button:hover {
 
 
 .brand-forge {
-  height: 550px;
+  height: 1000px;
   background: black;
 }
 
@@ -170,9 +170,39 @@ a, a:hover, button, button:hover {
   padding-left: 5%;
 }
 
+.forge-agile {
+  color:white;
+  font-size: 20px;
+  padding-left: 5%;
+  padding-top: 3%
+}
+
+.forge-vertical {
+  border-left: solid white 3px;
+  color: white;
+  font-size: 36px;
+  margin-left: 50%;
+}
+
+.verticalText {
+  padding-left: 30px;
+  font-weight: bold;
+}
+
+.giantEagle {
+  font-family: industry, sans-serif;
+}
+
+.name {
+  font-weight: bold;
+}
+
+
 .mobile-border {
   display: none;
 }
+
+
 
 
 #menuToggle

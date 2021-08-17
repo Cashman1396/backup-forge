@@ -163,6 +163,34 @@
         
     </div>
 
+    <div class="forge-agile">
+        <p>Infused with Agile principles, Forge brings your brand vision to <br> 
+        life. While we follow defined guidelines and guardrails, we <br>
+        also understand flexibility may be needed to build and <br>
+        maintain brand design integrity. It’s what sets us apart.</p> 
+    </div>
+
+    <div class="forge-vertical">
+        <p class="verticalText"> “15 minutes of design <br>
+            oversight now can save <br> 
+            weeks of delay further <br> 
+            downstream.”</p>
+
+        <br>
+        <br>
+
+        <hr class="forgeEagle">
+        <p class="giantEagle">
+            <span class="name">BRIAN</span>, DESIGN MANAGER <br>
+            GIANT EAGLE </p>
+    </div>
+
+
+</div>
+
+<div class="guide section">
+
+
 
 </div>
 
