@@ -230,6 +230,7 @@ a, a:hover, button, button:hover {
 
 .infuse {
   padding-top: 10%;
+  padding-left: 6%;
 }
 
 .infuse h6 {
@@ -242,6 +243,10 @@ a, a:hover, button, button:hover {
   font-size: 16px;
 }
 
+.your-class {
+  color:white;
+  padding-left: 30%;
+}
 
 .mobile-border {
   display: none;
