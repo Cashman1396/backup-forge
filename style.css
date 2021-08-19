@@ -1,9 +1,7 @@
+/* 
 
+Theme: Forge
 
-/*
-a {
-    color: white;
-}
 */
 
 @font-face {
@@ -207,7 +205,7 @@ a, a:hover, button, button:hover {
 
 .principles {
   background: linear-gradient(90deg, rgba(0,0,0,1) 75%, rgba(252,179,31,1) 75%);
-  height: 600px;
+  height: 750px;
 }
 
 .princeForge {
@@ -229,6 +227,7 @@ a, a:hover, button, button:hover {
 }
 
 .infuse {
+  position: absolute;
   padding-top: 10%;
   padding-left: 6%;
 }
@@ -241,6 +240,23 @@ a, a:hover, button, button:hover {
 .infuse p {
   color:#fff;
   font-size: 16px;
+}
+
+.integrate {
+  position: absolute;
+  padding-left: 25%;
+  padding-top: 10%;
+}
+
+.integrate h6 {
+  color: white;
+  font-size: 22px;
+}
+
+.integrate p {
+  color:#fff;
+  font-size: 16px;
+
 }
 
 .your-class {
