@@ -5,7 +5,7 @@ Theme: Forge
 */
 
 @font-face {
-  font-family: "industry", sans-serif;
+  font-family: industry, sans-serif;
   font-display: swap;
   src: url("/fonts/industry-bold-webfont.woff2") format("woff2"),
        url("/fonts/industry-bold-webfont.woff") format("woff");
@@ -215,7 +215,7 @@ a, a:hover, button, button:hover {
   font-size: 52px;
   font-weight: bold;
   padding-left: 5%;
-  padding-top: 3%
+  padding-top: 5%
 }
 
 .princeDesign {
@@ -223,7 +223,7 @@ a, a:hover, button, button:hover {
   color: #fff;
   font-size: 20px;
   padding-left: 40%;
-  padding-top: 5%;  
+  padding-top: 7%;  
 }
 
 .infuse {
@@ -244,7 +244,7 @@ a, a:hover, button, button:hover {
 
 .integrate {
   position: absolute;
-  padding-left: 25%;
+  padding-left: 22%;
   padding-top: 10%;
 }
 
@@ -259,8 +259,74 @@ a, a:hover, button, button:hover {
 
 }
 
+.strategy {
+  position: absolute;
+  padding-top: 10%;
+  padding-left: 35%;
+}
+
+.strategy h6 {
+  color: white;
+  font-size: 22px;
+}
+
+.strategy p {
+  color:#fff;
+  font-size: 16px;
+}
+
+.designFocus {
+  position: absolute;
+  padding-top: 10%;
+  padding-left: 48%;
+}
+
+.designFocus h6 {
+  color: white;
+  font-size: 22px;
+}
+
+.designFocus p {
+  color:#fff;
+  font-size: 16px;
+}
+
+.central {
+  position: absolute;
+  padding-top: 10%;
+  padding-left: 62%;
+}
+
+.central h6 {
+  color: white;
+  font-size: 22px;
+}
+
+.central p {
+  color:#fff;
+  font-size: 16px;
+}
+
+.efficient {
+  position: absolute;
+  padding-top: 10%;
+  padding-left: 78%;
+
+}
+
+.efficient h6 {
+  color: white;
+  font-size: 22px;
+}
+
+.efficient p {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+
 .your-class {
-  color:white;
+  padding-top: 40%;
   padding-left: 30%;
 }
 
@@ -560,5 +626,13 @@ a, a:hover, button, button:hover {
     margin-left: 5%;
   }
   
-  
+
+  .princeForge {
+    color:white;
+  }
+
+  .mobilePrince {
+    background-color: black;
+    height: 460px;
+  }
 }

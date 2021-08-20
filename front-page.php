@@ -189,7 +189,7 @@
 </div>
 
 <div class="principles">
-<div class="mobileGuide">
+<div class="mobilePrince">
     <div class="prince">
         <p class="princeForge">PRINCIPLES THAT <br> GUIDE FORGE</p>
     </div>
@@ -200,95 +200,55 @@
            programs the most. Forge is grounded in <br>
            key principles that institute creativity, design, <br>
            planning and technology to make our <br>
-           process efficient and cost effective.</p>
+           process efficient and cost effective.
+        </p>
     </div>
 
 
     <div class="infuse">
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.908" height="54.956" viewBox="0 0 54.908 54.956">
-  <defs>
-    <clipPath id="clip-path">
-      <path id="Path_15" data-name="Path 15" d="M183.689,554.463a2.966,2.966,0,1,1-5.932,0h-1.736V515.112h9.7v39.351Z" transform="translate(-176.021 -515.112)" fill="none"/>
-    </clipPath>
-    <clipPath id="clip-path-2">
-      <path id="Path_16" data-name="Path 16" d="M153.27,530.723a2.965,2.965,0,1,1,5.931,0h1.736v39.345h-9.7V530.723Z" transform="translate(-151.237 -527.757)" fill="none"/>
-    </clipPath>
-  </defs>
-  <g id="Group_46" data-name="Group 46" transform="translate(2.969)">
-    <line id="Line_3" data-name="Line 3" y2="39.742" transform="translate(48.97 0)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
-    <path id="Path_13" data-name="Path 13" d="M168.477,554.854a12.243,12.243,0,1,0,24.485,0" transform="translate(-143.992 -515.112)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
-    <g id="Group_20" data-name="Group 20" transform="translate(32.029 0)">
-      <g id="Group_19" data-name="Group 19" clip-path="url(#clip-path)">
-        <line id="Line_6" data-name="Line 6" y1="42.321" transform="translate(4.698 0)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5.938"/>
-      </g>
-    </g>
-    <line id="Line_4" data-name="Line 4" y2="24.506" transform="translate(24.485 15.236)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
-    <path id="Path_14" data-name="Path 14" d="M168.477,530.348a12.243,12.243,0,1,0-24.485,0" transform="translate(-143.992 -515.112)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
-    <g id="Group_22" data-name="Group 22" transform="translate(7.245 12.645)">
-      <g id="Group_21" data-name="Group 21" clip-path="url(#clip-path-2)">
-        <line id="Line_7" data-name="Line 7" y1="42.31" transform="translate(4.998 0)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5.938"/>
-      </g>
-    </g>
-    <line id="Line_5" data-name="Line 5" y2="39.72" transform="translate(0 15.236)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
-  </g>
-</svg>
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.908" height="54.956" viewBox="0 0 54.908 54.956">
+        <defs>
+          <clipPath id="clip-path">
+            <path id="Path_15" data-name="Path 15" d="M183.689,554.463a2.966,2.966,0,1,1-5.932,0h-1.736V515.112h9.7v39.351Z" fill="none"/>
+          </clipPath>
+          <clipPath id="clip-path-2">
+            <path id="Path_16" data-name="Path 16" d="M153.27,530.723a2.965,2.965,0,1,1,5.931,0h1.736v39.345h-9.7V530.723Z" fill="none"/>
+          </clipPath>
+        </defs>
+         <g id="Group_823" data-name="Group 823" transform="translate(-60.299 -2683.38)">
+          <line id="Line_3" data-name="Line 3" y2="39.742" transform="translate(112.238 2683.38)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+            <path id="Path_13" data-name="Path 13" d="M168.477,554.854a12.243,12.243,0,1,0,24.485,0" transform="translate(-80.724 2168.268)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+        <g id="Group_20" data-name="Group 20" transform="translate(-80.724 2168.268)">
+        <g id="Group_19" data-name="Group 19" clip-path="url(#clip-path)">
+          <line id="Line_6" data-name="Line 6" y1="42.321" transform="translate(180.719 515.112)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5.938"/>
+        </g>
+        </g>
+          <line id="Line_4" data-name="Line 4" y2="24.506" transform="translate(87.753 2698.616)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+            <path id="Path_14" data-name="Path 14" d="M168.477,530.348a12.243,12.243,0,1,0-24.485,0" transform="translate(-80.724 2168.268)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+        <g id="Group_22" data-name="Group 22" transform="translate(-80.724 2168.268)">
+        <g id="Group_21" data-name="Group 21" clip-path="url(#clip-path-2)">
+          <line id="Line_7" data-name="Line 7" y1="42.31" transform="translate(156.235 527.757)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5.938"/>
+        </g>
+        </g>
+          <line id="Line_5" data-name="Line 5" y2="39.72" transform="translate(63.269 2698.616)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+        </g>
+      </svg>
+
 
 
     <h6>Infusion of <br>
-     agile principles</h6>
+      agile principles
+    </h6>
 
      
     <p>Maintaining focus & staying <br>
-     nimble saves time and <br>
-      money.</p>
-    </div>
+      nimble saves time and <br>
+      money.
+    </p>
+  </div>
 
-    <div class="integrate">
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.956" height="54.956" viewBox="0 0 54.956 54.956">
-  <defs>
-    <clipPath id="clip-path">
-      <path id="Path_10" data-name="Path 10" d="M438.292,570.068l-54.956-54.956h54.956Z" fill="none"/>
-    </clipPath>
-    <clipPath id="clip-path-2">
-      <path id="Path_11" data-name="Path 11" d="M389.311,521.221,432.2,564.112V521.221Z" fill="none"/>
-    </clipPath>
-    <clipPath id="clip-path-3">
-      <path id="Path_12" data-name="Path 12" d="M432.2,564.112l-42.891-42.891v42.891Z" fill="none"/>
-    </clipPath>
-  </defs>
-  <g id="Group_822" data-name="Group 822" transform="translate(-262.613 -2683.38)">
-    <g id="Group_13" data-name="Group 13" transform="translate(-120.724 2168.268)">
-      <g id="Group_12" data-name="Group 12" clip-path="url(#clip-path)">
-        <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(383.336 515.112)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5.938">
-          <rect width="54.956" height="54.956" stroke="none"/>
-          <rect x="2.969" y="2.969" width="49.018" height="49.018" fill="none"/>
-        </g>
-      </g>
-    </g>
-    <g id="Group_15" data-name="Group 15" transform="translate(-120.724 2168.268)">
-      <g id="Group_14" data-name="Group 14" clip-path="url(#clip-path-2)">
-        <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(395.971 527.747)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5.938">
-          <rect width="29.687" height="29.687" stroke="none"/>
-          <rect x="2.969" y="2.969" width="23.749" height="23.749" fill="none"/>
-        </g>
-      </g>
-    </g>
-    <g id="Group_17" data-name="Group 17" transform="translate(-120.724 2168.268)">
-      <g id="Group_16" data-name="Group 16" clip-path="url(#clip-path-3)">
-        <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(389.445 521.221)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938">
-          <rect width="42.739" height="42.739" stroke="none"/>
-          <rect x="2.969" y="2.969" width="36.801" height="36.801" fill="none"/>
-        </g>
-        <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(401.912 533.688)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938">
-          <rect width="17.804" height="17.804" stroke="none"/>
-          <rect x="2.969" y="2.969" width="11.866" height="11.866" fill="none"/>
-        </g>
-      </g>
-    </g>
-  </g>
-</svg>
-
-
+  <div class="integrate">
+    <img src="http://forge30.local/wp-content/uploads/2021/08/forge-dia.png" alt="diamond">
 
 
     <h6>Integrated <br>
@@ -296,29 +256,93 @@
 
      
     <p>Plan ahead with a <br>
-     detailed roadmap <br>
-      aligning to key roles <br>
-       and deliverables.</p>
+        detailed roadmap <br>
+        aligning to key roles <br>
+       and deliverables.
+    </p>
+  </div>
+
+
+
+  <div class="strategy">
+    <img src="http://forge30.local/wp-content/uploads/2021/08/stair.png" alt="stairs">
+
+    <h6>Strategically <br> led</h6>
+
+
+    <p>Leverage a <br> 
+      foundation of brand, <br>
+      category, and <br>
+      shopper insights for <br>
+      optimal output.
+    </p>
+  </div>
+
+  <div class="designFocus">
+    <img src="http://forge30.local/wp-content/uploads/2021/08/focus.png" alt="focus">
+
+
+    <h6>Design <br>
+          Focused
+      </h6>
+
+      <p>Analyze, manage, <br>
+          and build upon visual <br>
+          assets to ensure a <br>
+           holistic roll-out.
+      </p>
+
+  </div>
+
+  <div class="central">
+    <img src="http://forge30.local/wp-content/uploads/2021/08/center.png">
+
+    <h6>Centralized <br>
+        ecosystem
+      </h6>
+
+
+      <p>Deliver easy <br>
+          & efficient communication, <br>
+           collaboration, <br>
+          and approvals.
+      </p>
+  </div>
+
+  <div class="efficient">
+      <img src="http://forge30.local/wp-content/uploads/2021/08/Group-10.png">
+      
+      <h6>Efficient & cost <br>
+         effective</h6>
+
+
+      <p>A customized <br>
+          approach based on <br>
+          need, complexity, <br>
+          and designer <br>
+          engagement, <br>
+          reduces re-work.
+      </p>
+
+  </div>
+
+     
+
+      
+
+    
+
+
+
     </div>
+</div>
 
-       
-    </div>
-
-
-    <div class="your-class">
-        <div>your content</div>
-        <div>your content</div>
-        <div>your content</div>
-    </div>
+</div class="forgeTools">
 
 
-
-    </div>
 
 
 </div>
-
-
 
 
 
