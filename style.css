@@ -334,7 +334,40 @@ a, a:hover, button, button:hover {
   display: none;
 }
 
+.slick-next {
+  right: 45%;
+}
 
+.slick-prev{
+  left:40%;
+}
+
+.single-item {
+  color:white;
+  padding-left: 45%;
+  display:none;
+}
+
+.forgeTools {
+  height: 600px;
+  background: linear-gradient(90deg, rgba(252,179,31,1) 54%, rgba(231,219,208,1) 54%);;
+}
+
+.forgeTools-white {
+  
+  width: 28px;
+  margin-left: 54%;
+  height: 331px;
+  background-color: white;
+  padding-left: 54%;
+}
+
+.toolsArrow {
+  padding-left: 50%;
+  padding-top: 11.8%;
+  position: absolute;
+  z-index: 1;
+}
 
 
 #menuToggle
@@ -635,4 +668,27 @@ a, a:hover, button, button:hover {
     background-color: black;
     height: 460px;
   }
+
+  .forgeTools {
+    background: linear-gradient(180deg, rgba(252,179,31,1) 54%, rgba(231,219,208,1) 54%);
+  }
+
+  .forgeTools-white {
+    margin-left: 0%;
+    position: absolute;
+    margin-top: 36.5%;
+    height: 280px;
+  }
+
+  .toolsArrow {
+    padding-left: 152px;
+    margin-left: 45%;
+    margin-top: 50px;
+    transform: rotate(
+90deg
+); 
+}
+
+
+  
 }

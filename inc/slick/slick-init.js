@@ -1,7 +1,10 @@
 (function($) {
     $('.your-class').slick({
         dots: true,
-        arrow: true,
-
+        arrow: true
     }); 
+
+    $('.single-item').slick();
+    
+
     })(jQuery);
