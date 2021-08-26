@@ -361,11 +361,28 @@
        through prepress and color management.</p>
   </div>
 
+  <div class="mobiletoolsText">Through our strategic understanding, passion for design intent consistency, and seamless <br>
+        workflow and tools; we’re ready to successfully scale your brand. With Forge, you can <br>
+        expect activation excellence from adaptation all the way through prepress and color <br>
+        management.</div>
+
   <div class="toolsPrivate">
         <h4>Private <br> Brands.</h4>
 
 
         <p class="toolsLine"></p>
+
+        <p class="toolsWord">Forge’s brand-led design process ensures <br>
+             brand clarity across the store and <br>
+              strategically collaborates with a diverse <br>
+              set of suppliers to minimize impact on cost <br>
+               of goods.</p>
+
+        <p class="mobiletoolsWord">Forge’s brand-led design process <br>
+           ensures brand clarity across the store <br>
+            and strategically collaborates with a <br>
+             diverse set of suppliers to minimize <br>
+              impact on cost of goods.</p>
      </div>
 
   

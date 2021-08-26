@@ -383,18 +383,34 @@ a, a:hover, button, button:hover {
   font-size: 20px;
 }
 
+.mobiletoolsText {
+  display: none;
+}
 
 .toolsPrivate {
   position: absolute;
   padding-left: 65%;
-  
+ 
   
 }
 
+.toolsPrivate h4{
+  font-size: 32px;
+}
+
 .toolsLine {
-  width: 200%;
+  width: 60%;
   border-bottom: 5px solid #FCB31F;
   
+}
+
+.toolsWord {
+  font-size: 20px;
+  line-height: 18px;
+}
+
+.mobiletoolsWord {
+  display: none;
 }
 
 #menuToggle
@@ -698,24 +714,45 @@ a, a:hover, button, button:hover {
 
   .forgeTools {
     background: linear-gradient(180deg, rgba(252,179,31,1) 54%, rgba(231,219,208,1) 54%);
+    height: 950px;
   }
 
   .forgeTools-white {
     margin-left: 0%;
     position: absolute;
-    margin-top: 36.5%;
-    height: 280px;
+    margin-top: 58%;
+    height: 435px;
   }
 
   .toolsArrow {
     padding-left: 152px;
     margin-left: 45%;
-    margin-top: 50px;
-    transform: rotate(
-90deg
-); 
+    margin-top: 250px;
+    transform: rotate(90deg); 
 }
 
+.toolsName {
+  padding-top: 4%;
+  padding-left: 5%;
+}
+
+.toolsPrivate {
+  position: absolute;
+  padding-left: 6%;
+  padding-top: 70%;
+  z-index: 1;
+}
+
+.toolsWord {
+  display: none;
+}
+
+.mobiletoolsWord {
+  display: block;
+  font-size: 20px;
+  line-height: 18px;
+  padding-top: 5%;
+}
 
   
 }
