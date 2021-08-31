@@ -364,7 +364,8 @@
   <div class="mobiletoolsText">Through our strategic understanding, passion for design intent consistency, and seamless <br>
         workflow and tools; we’re ready to successfully scale your brand. With Forge, you can <br>
         expect activation excellence from adaptation all the way through prepress and color <br>
-        management.</div>
+        management.
+    </div>
 
   <div class="toolsPrivate">
         <h4>Private <br> Brands.</h4>
@@ -384,6 +385,28 @@
              diverse set of suppliers to minimize <br>
               impact on cost of goods.</p>
      </div>
+
+  <div class="toolsNational">
+      <h4 class="headerNation">CPG / National Brand <br>
+        Adaptation.</h4>
+
+      <h4 class="mobileToolsNational">CPG / National <br>
+        Brand Adaptation.</h4>
+  
+
+  <p class="nationalLine"></p>
+
+  <p class="nationalWord">Forge strategically balances the need for <br>
+    brand consistency with diversification and <br>
+     consumer relevance.</p>
+
+     <p class="mobilenationalWord">Forge strategically balances the need for <br>
+    brand consistency with diversification <br> 
+    and consumer relevance.</p>
+
+
+
+  </div>
 
   
 
