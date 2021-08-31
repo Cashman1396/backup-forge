@@ -40,6 +40,7 @@ a, a:hover, button, button:hover {
     width: 100%;
     height: 80px;
     background-color: black;
+    z-index: 3;
 }
 
 .nav-logo {
@@ -86,7 +87,7 @@ a, a:hover, button, button:hover {
     overflow-wrap:break-word;
 }
 
-.mobile-black-text {
+.tab-black-text {
   display: none;
 }
 
@@ -104,10 +105,11 @@ a, a:hover, button, button:hover {
     padding-left: 70%;
 }
 
-.mobile-arrow {
+.tab-arrow {
   display: none;
 }
 
+/* creative section */
 
 .section-create {
     height: 550px;
@@ -139,10 +141,15 @@ a, a:hover, button, button:hover {
   padding-top: 10%;
 }
 
-.mobile-excerpt {
+.tabExcerpt {
   display: none;
 }
 
+.tabBorder {
+  display: none;
+}
+
+/* Forge Section */
 
 
 
@@ -348,6 +355,8 @@ a, a:hover, button, button:hover {
   display:none;
 }
 
+/* Tools Section */
+
 .forgeTools {
   height: 600px;
   background: linear-gradient(90deg, rgba(252,179,31,1) 54%, rgba(231,219,208,1) 54%);;
@@ -439,8 +448,88 @@ a, a:hover, button, button:hover {
 }
 
 
+/* Partnerships Section */
+
+.partner {
+  background: linear-gradient(180deg, rgba(0,0,0,1) 44%, rgba(252,179,31,1) 44%);
+  height: 1000px;
+}
+
+.partnerWhite {
+  position: absolute;
+  background-color: white;
+  height: 800px;
+  width: 90%;
+  margin-left: 4%;
+  margin-top: 5%;
+  z-index: 1;
+}
+
+.partnerHead {
+  position: absolute;
+  padding-left: 5%;
+  padding-top: 3%;
+}
+
+.partnerHead h3 {
+  font-family: industry, sans-serif;
+  font-weight: bold;
+  font-size: 62px;
+  line-height: 52px;
+}
+
+.partnerWords {
+  position: absolute;
+  font-size: 20px;
+  line-height: 18px;
+  padding-top: 3%;
+  padding-left: 65%;
+}
+
+.partnerYellow {
+  background-color: #FCB31F;
+  height: 600px;
+}
+
+.partnerVertical {
+  position: absolute;
+  border-left: solid black 3px;
+  color: black;
+  font-size: 36px;
+  padding-left: 1%;
+  margin-left: 8%;
+  height: 83%;
+  
+}
+
+.partnerLoyal {
+  line-height: 38px;
+  font-weight: bold;
+  font-size: 42px;
+}
+
+.Vice {
+  position: absolute;
+  font-family: industry, sans-serif;
+  font-size: 24px;
+  padding-top: 18%;
+
+}
+
+.viceLine {
+  position: absolute;
+  width:17%;
+  margin-top: 15%;
+  border-top: black 5px solid;
+}
 
 
+.viceBold {
+  font-weight: bold;
+}
+
+
+/* Hamburger Icon */
 
 #menuToggle
 {
@@ -604,6 +693,90 @@ a, a:hover, button, button:hover {
      4px 4px 5px 0px rgba(0,0,0,.1);
     outline: none;
   }
+
+
+/* 1 */
+.btn-1 {
+  background: rgb(6,14,131);
+  background: linear-gradient(0deg, rgba(6,14,131,1) 0%, rgba(12,25,180,1) 100%);
+  border: none;
+}
+.btn-1:hover {
+   background: rgb(0,3,255);
+background: linear-gradient(0deg, rgba(0,3,255,1) 0%, rgba(2,126,251,1) 100%);
+}
+
+/* 12 */
+.btn-12{
+  position: relative;
+  right: 20px;
+  bottom: 20px;
+  border:none;
+  box-shadow: none;
+  width: 130px;
+  height: 40px;
+  line-height: 42px;
+  -webkit-perspective: 230px;
+  perspective: 230px;
+}
+.btn-12 span {
+  background: rgb(0,172,238);
+background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
+  display: block;
+  position: absolute;
+  width: 130px;
+  height: 40px;
+  box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+  border-radius: 5px;
+  margin:0;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+.btn-12 span:nth-child(1) {
+  box-shadow:
+   -7px -7px 20px 0px #fff9,
+   -4px -4px 5px 0px #fff9,
+   7px 7px 20px 0px #0002,
+   4px 4px 5px 0px #0001;
+  -webkit-transform: rotateX(90deg);
+  -moz-transform: rotateX(90deg);
+  transform: rotateX(90deg);
+  -webkit-transform-origin: 50% 50% -20px;
+  -moz-transform-origin: 50% 50% -20px;
+  transform-origin: 50% 50% -20px;
+}
+.btn-12 span:nth-child(2) {
+  -webkit-transform: rotateX(0deg);
+  -moz-transform: rotateX(0deg);
+  transform: rotateX(0deg);
+  -webkit-transform-origin: 50% 50% -20px;
+  -moz-transform-origin: 50% 50% -20px;
+  transform-origin: 50% 50% -20px;
+}
+.btn-12:hover span:nth-child(1) {
+  box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+  -webkit-transform: rotateX(0deg);
+  -moz-transform: rotateX(0deg);
+  transform: rotateX(0deg);
+}
+.btn-12:hover span:nth-child(2) {
+  box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+ color: transparent;
+  -webkit-transform: rotateX(-90deg);
+  -moz-transform: rotateX(-90deg);
+  transform: rotateX(-90deg);
+}
+
   
 
 /* 15 */
@@ -657,7 +830,7 @@ a, a:hover, button, button:hover {
     display: none;
   }
 
-  .mobile-black-text {
+  .tab-black-text {
     position: absolute;
     text-align: center;
     padding-top: 60%;
@@ -687,7 +860,7 @@ a, a:hover, button, button:hover {
     padding-left: 40%;
   }
   
-  .mobile-arrow {
+  .tab-arrow {
     display: block;
     position: absolute;
     padding-top: 55%;
@@ -709,7 +882,7 @@ a, a:hover, button, button:hover {
   }
   
 
-  .mobile-border {
+  .tabBorder {
     display: block;
     position: absolute;
     padding-left: 7%;
@@ -720,7 +893,7 @@ a, a:hover, button, button:hover {
     display: none;
   }
 
-  .mobile-excerpt {
+  .tabExcerpt {
     position: absolute;
     display: block;
     padding-top: 45%;
@@ -736,7 +909,7 @@ a, a:hover, button, button:hover {
     color:white;
   }
 
-  .mobilePrince {
+  .tabPrince {
     background-color: black;
     height: 460px;
   }
@@ -785,6 +958,8 @@ a, a:hover, button, button:hover {
   display: block;
   font-size: 18px;
   line-height: 18px;
+  padding-top: 44%;
+  padding-left: 5%;
 }
 
 .mobiletoolsWord {

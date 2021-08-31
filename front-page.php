@@ -1,33 +1,31 @@
 <?php get_header() ?>
+
+<!--  Banner Section -->
 <div class="banner"> 
 
-<div class="black-text">
-        <p>Brand-led </p>
-         <p>approach to </p> 
-         <p>volume design. </p>
+  <div class="black-text">
+          <p>Brand-led </p>
+          <p>approach to </p> 
+          <p>volume design. </p>
 
-
-        <p class="ban-line"></p>
+            <p class="ban-line"></p>
 
          <p>Want to learn more?</p>
-
-
-         
-</div>
-<div class="mobile-black-text">
+  </div>
+  
+  <div class="tab-black-text">
         <p>Brand-led approach </p> 
-         <p>to volume design. </p>
+        <p>to volume design. </p>
 
-         <p class="ban-line"></p>
+          <p class="ban-line"></p>
 
         <p>Want to learn more?</p>
+  </div>
 
 
-
-</div>
-<div class="ban-button">
-<button class="custom-btn btn-15">Read More</button>
-</div>
+  <div class="ban-button">
+    <button class="custom-btn btn-15">Read More</button>
+  </div>
 
     <div class="forge-name">
         <svg id="Logo_Forge" xmlns="http://www.w3.org/2000/svg" width="460" height="229.885" viewBox="0 0 460 229.885">
@@ -59,33 +57,26 @@
         <svg xmlns="http://www.w3.org/2000/svg" width="79.364" height="34.249" viewBox="0 0 79.364 34.249">
             <path id="Path_30" data-name="Path 30" d="M1014.645,468.157l26.091-37.393-26.091-37.393" transform="translate(470.446 -1011.365) rotate(90)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="8"/>
         </svg>
-
-
-
-    </div>
+      </div>
     </div>
 
-    <div class="mobile-arrow">
+    <div class="tab-arrow">
         <svg xmlns="http://www.w3.org/2000/svg" width="67" height="67" viewBox="0 0 67 67">
             <g id="Group_985" data-name="Group 985" transform="translate(-716 -762)">
             <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(716 762)" fill="none" stroke="#fff" stroke-width="5">
-             <circle cx="33.5" cy="33.5" r="33.5" stroke="none"/>
-            <circle cx="33.5" cy="33.5" r="31" fill="none"/>
-        </g>
-        <path id="Path_1807" data-name="Path 1807" d="M0,33.96,11.848,16.98,0,0" transform="translate(766.48 789.576) rotate(90)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="8"/>
-        </g>
-    </svg>
-
+              <circle cx="33.5" cy="33.5" r="33.5" stroke="none"/>
+              <circle cx="33.5" cy="33.5" r="31" fill="none"/>
+            </g>
+            <path id="Path_1807" data-name="Path 1807" d="M0,33.96,11.848,16.98,0,0" transform="translate(766.48 789.576) rotate(90)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="8"/>
+          </g>
+        </svg>
     </div>
-
-
-    
-
 
 </div>
 
     
 
+<!-- Creative Section -->
 
 <div class="section-create">
     <div class="section-text">
@@ -93,29 +84,34 @@
            AND DESIGN <br>
            FIRST.</p>
     </div>
+
     <div class="excerpt">
-    <p> When you need to seamlessly deliver <br>
-        strategic, adaptable design across complex <br>
-         systems, Forge is the answer. </p>
+        <p> When you need to seamlessly deliver <br>
+          strategic, adaptable design across complex <br>
+          systems, Forge is the answer. 
+        </p>
 
-    <p>In traditional production-driven processes, <br>
-     it’s too easy for brand strategy and design <br>
-     intent to get lost in translation. Our <br>
-     passionate volume design experts are <br> 
-     trained to understand and successfully<br>
-     extend strategic design systems… <br>
-     regardless of architectural complexity. </p>
-</div>
+        <p>In traditional production-driven processes, <br>
+            it’s too easy for brand strategy and design <br>
+            intent to get lost in translation. Our <br>
+            passionate volume design experts are <br> 
+            trained to understand and successfully<br>
+            extend strategic design systems… <br>
+            regardless of architectural complexity. 
+        </p>
+    </div>
 
-<div class="mobile-excerpt">
-<p> When you need to seamlessly deliver strategic, adaptable design <br>
- across complex systems, Forge is the answer. </p>
+    <div class="tabExcerpt">
+      <p> When you need to seamlessly deliver strategic, adaptable design <br>
+        across complex systems, Forge is the answer. 
+      </p>
 
- <p>In traditional production-driven processes, it’s too easy for brand <br>
-     strategy and design intent to get lost in translation. Our passionate <br>
-     volume design experts are trained to understand and successfully <br>
-     extend strategic design systems… regardless of architectural <br>
-      complexity. </p>
+      <p>In traditional production-driven processes, it’s too easy for brand <br>
+          strategy and design intent to get lost in translation. Our passionate <br>
+          volume design experts are trained to understand and successfully <br>
+          extend strategic design systems… regardless of architectural <br>
+          complexity. 
+      </p>
 
 </div>
     <div class="create-border">
@@ -134,7 +130,7 @@
 </div>
 
 
-<div class="mobile-border">
+<div class="tabBorder">
     <svg xmlns="http://www.w3.org/2000/svg" width="698" height="573.775" viewBox="0 0 698 573.775">
         <g id="Rectangle_1508" data-name="Rectangle 1508" transform="translate(0 0.929)" fill="none" stroke="#e7dbd0" stroke-width="16">
             <path d="M44,0H654a44,44,0,0,1,44,44V523.529a44,44,0,0,1-44,44H0a0,0,0,0,1,0,0V44A44,44,0,0,1,44,0Z" stroke="none"/>
@@ -149,6 +145,7 @@
 
 </div>
 
+<!-- Forge Section -->
 
 
 <div class="brand-forge">
@@ -189,7 +186,7 @@
 </div>
 
 <div class="principles">
-<div class="mobilePrince">
+  <div class="tabPrince">
     <div class="prince">
         <p class="princeForge">PRINCIPLES THAT <br> GUIDE FORGE</p>
     </div>
@@ -344,6 +341,8 @@
     </div>
 </div>
 
+  <!-- Tools Section -->
+
 <div class="forgeTools">
 
   <div class="toolsName">
@@ -427,6 +426,62 @@
 
 </div>
 
+<!-- Partnerships Section -->
+
+
+<div class="partner">
+
+  <div class="partnerWhite">
+  
+    <div class="partnerHead">
+      <h3>PARTNERSHIPS <br>
+          THAT YIELD <br>
+          RESULTS.</h3>
+
+      </div>
+
+    <div>
+      <p class="partnerWords">We have developed, designed and produced over <br>
+          50,000 SKU’s for our clients. As brand <br>
+          development and design experts, we’re highly <br>
+          experienced in creating and managing large scale, <br>
+          cross-category implementation programs.  
+      </p>
+    </div>
+
+    <div class="Cases">
+    <button class="custom-btn btn-1 firstCase">Read More</button>
+
+
+    <button class="custom-btn btn-12 twelveCase"><span>Click!</span><span>Read More</span></button>
+    </div>
+
+
+  </div>
+
+</div>
+
+<div class="partnerYellow">
+
+  <div class="partnerVertical">
+      <p class="partnerLoyal"> “Instead of managing 10 separate own <br>
+          brands across multiple categories, we have <br> 
+          now rolled everything into our two strongest <br>
+          brand equities with the most member <br>
+          loyalty—Wellsley Farms and Berkley vensen. <br>
+          The result is a rationalized platform of own <br>
+          brands which better positions BJ’s <br>
+          Wholesale Club for future growth.”
+      </p>  
+
+
+      <p class="viceLine"></p>
+      <p class="Vice"><span class="viceBold">KRISTINE MODUGNO,</span> ASSISTANT VICE PRESIDENT, <br>
+          OWN BRANDS FOR BJ’S WHOLESALE CLUB
+      </p>
+  </div>
+
+</div>
 
 
 
