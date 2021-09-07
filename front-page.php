@@ -449,13 +449,26 @@
       </p>
     </div>
 
-    <div class="Cases">
-    <button class="custom-btn btn-1 firstCase">Read More</button>
+  <div class="firstCase">
+    <button class="custom-btn btn-1">Read More</button>
+  </div>
+
+  <div class="secondCase">
+      <button class="custom-btn btn-12"><span>Click!</span><span>Read More</span></button>
+  </div>
+
+  <div class="thirdCase">
+    <button class="custom-btn btn-14">Read More</button>  
+  </div>
 
 
-    <button class="custom-btn btn-12 twelveCase"><span>Click!</span><span>Read More</span></button>
-    </div>
+  <div class="fourthCase">
+      <button class="custom-btn btn-16">Read More</button>
+  </div>
 
+  <div class="fifthCase">
+  <button class="custom-btn btn-3"><span>Read More</span></button>
+  </div>
 
   </div>
 
