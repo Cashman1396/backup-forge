@@ -531,6 +531,7 @@
       </div>
 
   <div class="partnerVertical">
+    <div class="tabVertical">
       <p class="partnerLoyal"> “Instead of managing 10 separate own <br>
           brands across multiple categories, we have <br> 
           now rolled everything into our two strongest <br>
@@ -565,9 +566,8 @@
          WHOLESALE CLUB</p>
 
       
-
+    </div>
   </div>
-
 </div>
 
 <div class="Contact">

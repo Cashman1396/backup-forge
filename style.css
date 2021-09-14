@@ -1661,11 +1661,20 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
 
 .tabLoyal {
   display: block;
+  
+  padding-top: 0%;
 }
 
 .partnerVertical {
-  height: 110%;
+  padding-top: 0%;
+  height: 115%;
+  margin-left: 5%;
 
+}
+
+.partnerYellow {
+  padding-top: 10%;
+  height: 750px;
 }
 
 .Vice {
@@ -1673,17 +1682,21 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
 }
 
 .viceLine {
-  margin-top: 5%;
+  margin-top: 7%;
 }
 
 .tabVice {
   display: block;
   font-family: industry, sans-serif;
   font-size: 24px;
-  padding-top: 6%;
+  padding-top: 7%;
 
 }
 
 
+.ninthCase {
+  padding-top: 50%;
+  padding-left: 60%;
+}
   
 }
