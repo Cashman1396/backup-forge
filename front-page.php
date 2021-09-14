@@ -24,7 +24,7 @@
 
 
   <div class="ban-button">
-    <button class="custom-btn btn-15">Read More</button>
+    <button class="custom-btn btn-15"><span class="talk">TALK TO A HUMAN</span></button>
   </div>
 
     <div class="forge-name">
@@ -130,7 +130,7 @@
 </div>
 
 
-<div class="tabBorder">
+  <div class="tabBorder">
     <svg xmlns="http://www.w3.org/2000/svg" width="698" height="573.775" viewBox="0 0 698 573.775">
         <g id="Rectangle_1508" data-name="Rectangle 1508" transform="translate(0 0.929)" fill="none" stroke="#e7dbd0" stroke-width="16">
             <path d="M44,0H654a44,44,0,0,1,44,44V523.529a44,44,0,0,1-44,44H0a0,0,0,0,1,0,0V44A44,44,0,0,1,44,0Z" stroke="none"/>
@@ -141,7 +141,19 @@
     </svg>
 
 
-    </div>
+  </div>
+
+
+  <div class="mobileBorder">
+    <svg xmlns="http://www.w3.org/2000/svg" width="365.244" height="169.382" viewBox="0 0 365.244 169.382">
+      <g id="Path_1759" data-name="Path 1759" transform="translate(70 1.863)" fill="none">
+        <path d="M-53.042,0H278.287c9.365,0,16.958,8.4,16.958,18.77v129.48c0,10.366-7.592,18.77-16.958,18.77H-70V18.77C-70,8.4-62.408,0-53.042,0Z" stroke="none"/>
+        <path d="M -53.0423583984375 11.99998474121094 C -55.72967529296875 11.99998474121094 -58 15.10011291503906 -58 18.76957702636719 L -58 155.01904296875 L 278.2866821289062 155.01904296875 C 280.9739990234375 155.01904296875 283.2443237304688 151.9189300537109 283.2443237304688 148.2494659423828 L 283.2443237304688 18.76957702636719 C 283.2443237304688 15.10011291503906 280.9739990234375 11.99998474121094 278.2866821289062 11.99998474121094 L -53.0423583984375 11.99998474121094 M -53.0423583984375 -1.52587890625e-05 L 278.2866821289062 -1.52587890625e-05 C 287.652099609375 -1.52587890625e-05 295.2443237304688 8.403396606445312 295.2443237304688 18.76957702636719 L 295.2443237304688 148.2494659423828 C 295.2443237304688 158.6156311035156 287.652099609375 167.0190582275391 278.2866821289062 167.0190582275391 L -70 167.0190582275391 L -70 18.76957702636719 C -70 8.403396606445312 -62.4078369140625 -1.52587890625e-05 -53.0423583984375 -1.52587890625e-05 Z" stroke="none" fill="#e7dbd0"/>
+      </g>
+        <path id="Path_1748" data-name="Path 1748" d="M1170.464,834.522l-9.92,13.964h-14.378l10.751-13.964h13.547" transform="translate(-1007.688 -834.022)" fill="#fcb31f" stroke="#fcb31f" stroke-width="1"/>
+        <path id="Path_1748-2" data-name="Path 1748" d="M1170.464,834.522l-9.92,12.639h-14.378l10.751-12.639h13.547" transform="translate(-881.294 -678.28)" fill="#fcb31f" stroke="#fcb31f" stroke-width="1"/>
+    </svg>
+  </div>
 
 </div>
 
@@ -252,10 +264,16 @@
     planning model</h6>
 
      
-    <p>Plan ahead with a <br>
+    <p class="integrate-para">Plan ahead with a <br>
         detailed roadmap <br>
         aligning to key roles <br>
        and deliverables.
+    </p>
+
+    <p class="tabIntegrate">
+     Plan ahead with a detailed <br>
+     roadmap aligning to key <br>
+     roles and deliverables.
     </p>
   </div>
 
@@ -267,12 +285,19 @@
     <h6>Strategically <br> led</h6>
 
 
-    <p>Leverage a <br> 
+    <p class="strategy-para">Leverage a <br> 
       foundation of brand, <br>
       category, and <br>
       shopper insights for <br>
       optimal output.
     </p>
+
+    <p class="tabStrategy">
+      Leverage a foundation of <br>
+      brand, category, and <br>
+      shopper insights for <br>   
+      optimal output.</p>
+
   </div>
 
   <div class="designFocus">
@@ -283,10 +308,16 @@
           Focused
       </h6>
 
-      <p>Analyze, manage, <br>
+      <p class="design-para">Analyze, manage, <br>
           and build upon visual <br>
           assets to ensure a <br>
            holistic roll-out.
+      </p>
+
+      <p class="tabDesign">
+        Analyze, manage, and build <br> 
+        upon visual assets to ensure <br>
+        a holistic roll-out.
       </p>
 
   </div>
@@ -299,10 +330,16 @@
       </h6>
 
 
-      <p>Deliver easy <br>
+      <p class="central-para">Deliver easy <br>
           & efficient communication, <br>
            collaboration, <br>
           and approvals.
+      </p>
+
+      <p class="tabCentral">
+          Deliver easy & efficient <br> 
+          communication, <br>
+          collaboration, and approvals.
       </p>
   </div>
 
@@ -313,12 +350,18 @@
          effective</h6>
 
 
-      <p>A customized <br>
+      <p class="efficient-para">A customized <br>
           approach based on <br>
           need, complexity, <br>
           and designer <br>
           engagement, <br>
           reduces re-work.
+      </p>
+
+      <p class="tabEfficient">A customized approach <br>
+        based on need, complexity, <br>
+        and designer engagement, <br>
+        reduces re-work.
       </p>
 
   </div>
@@ -328,13 +371,7 @@
         <div>content</div>
         <div>content</div>
         <div>content</div>
-</div>
-
-     
-
-      
-
-    
+      </div>
 
 
 
@@ -450,31 +487,48 @@
     </div>
 
   <div class="firstCase">
-    <button class="custom-btn btn-1">Read More</button>
+    <button class="custom-btn btn-1"><span class="firstSpan">Go to Case Study</span></button>
   </div>
 
   <div class="secondCase">
-      <button class="custom-btn btn-12"><span>Click!</span><span>Read More</span></button>
+      <button class="custom-btn btn-12"><span class="firstSpan">Click!</span><span class="secondSpan">Go to Case Study</span></button>
   </div>
 
   <div class="thirdCase">
-    <button class="custom-btn btn-14">Read More</button>  
+    <button class="custom-btn btn-14"><span class="firstSpan">Go to Case Study</span></button>  
   </div>
 
 
   <div class="fourthCase">
-      <button class="custom-btn btn-16">Read More</button>
+      <button class="custom-btn btn-16"><span class="firstSpan">Go to Case Study</span></button>
   </div>
 
   <div class="fifthCase">
-  <button class="custom-btn btn-3"><span>Read More</span></button>
+    <button class="custom-btn btn-3"><span class="firstSpan">Go to Case Study</span></button>
   </div>
+
+  <div class="sixthCase">
+    <button class="custom-btn btn-6"><span class="firstSpan">Go to Case Study</span></button>
+  </div>
+
+  <div class="seventhCase">
+    <button class="custom-btn btn-13"><span class="firstSpan">Go to Case Study</span></button>
+  </div>
+
+  <div class="eighthCase">
+    <button class="custom-btn btn-9"><span class="firstSpan">Go to Case Study</span></button>
+  </div>
+
 
   </div>
 
 </div>
 
 <div class="partnerYellow">
+
+      <div class="ninthCase">
+          <button class="custom-btn btn-5"><span class="firstSpan">Go to Case Study</span></button>
+      </div>
 
   <div class="partnerVertical">
       <p class="partnerLoyal"> “Instead of managing 10 separate own <br>
@@ -488,15 +542,101 @@
       </p>  
 
 
+      <p class="tabLoyal">“Instead of managing 10 separate <br>
+       own brands across multiple <br>
+       categories, we have now rolled <br>
+       everything into our two strongest <br>
+       brand equities with the most <br>
+        member loyalty—Wellsley Farms <br>
+       and Berkley Jensen. The result is a <br>
+       rationalized platform of own <br>
+       brands which better positions BJ’s <br>
+        Wholesale Club for future growth.”</p>
+
+
       <p class="viceLine"></p>
       <p class="Vice"><span class="viceBold">KRISTINE MODUGNO,</span> ASSISTANT VICE PRESIDENT, <br>
           OWN BRANDS FOR BJ’S WHOLESALE CLUB
       </p>
+
+      <p class="tabVice"><span class="viceBold">KRISTINE MODUGNO,</span> <br>
+         ASSISTANT VICE PRESIDENT, <br>
+         OWN BRANDS FOR BJ’S <br>
+         WHOLESALE CLUB</p>
+
+      
+
   </div>
 
 </div>
 
+<div class="Contact">
 
+
+  <div class="contactTalk">
+      <svg xmlns="http://www.w3.org/2000/svg" width="404.001" height="560.852" viewBox="0 0 404.001 560.852">
+        <g id="Group_982" data-name="Group 982" transform="translate(-74.897 -76.256)">
+          <path id="Path_1798" data-name="Path 1798" d="M147.5,323.407H103.75V79.926H76.964V347.514H147.5Z" transform="translate(-0.257 -0.456)" fill="#fbb21e"/>
+          <path id="Path_1799" data-name="Path 1799" d="M251.242,324.612H205.708V221.354h33.035v-22.9H205.708V102.828h45.535v-22.9h-72.32V347.514h72.32Z" transform="translate(-12.932 -0.456)" fill="#fbb21e"/>
+          <path id="Path_1800" data-name="Path 1800" d="M304.8,347.514h26.785V103.632h26.786V79.926H275.78v23.706H304.8Z" transform="translate(-24.973 -0.456)" fill="#fbb21e"/>
+          <path id="Path_1801" data-name="Path 1801" d="M407.254,114.078V79.926H385.379v37.768h10.267c0,14.063-3.124,19.687-10.267,19.687v6.83C401.9,144.212,407.254,132.158,407.254,114.078Z" transform="translate(-38.598 -0.456)" fill="#fbb21e"/>
+          <path id="Path_1802" data-name="Path 1802" d="M476.339,207.237c-18.3-34.554-29.017-55.446-29.017-86.785,0-14.464,7.142-21.294,18.749-21.294,9.822,0,15.178,7.633,15.178,23.706v38.169H506.7V122.059c0-27.321-15.624-45.8-40.178-45.8-31.7,0-45.088,22.1-45.088,53.036,0,27.723,19.642,68.3,33.928,94.82,16.071,30.134,26.338,55.044,26.338,81.965,0,14.866-5.357,23.3-19.195,23.3-10.268,0-17.411-10.046-17.411-23.3V268.71H419.2v36.16c0,26.919,16.518,45.4,44.2,45.4,17.857,0,44.2-9.643,44.2-51.428C507.588,270.719,493.3,239.782,476.339,207.237Z" transform="translate(-42.803)" fill="#fbb21e"/>
+          <path id="Path_1803" data-name="Path 1803" d="M157.485,411.154H74.9V434.86h29.018V678.742H130.7V434.86h26.785Z" transform="translate(0 -41.634)" fill="#fbb21e"/>
+          <path id="Path_1804" data-name="Path 1804" d="M202.69,411.154,169.208,678.741h24.553l6.251-54.241h29.463l4.464,54.241h28.124L230.815,411.154Zm0,189.642,13.839-124.151L227.243,600.8Z" transform="translate(-11.724 -41.634)" fill="#fbb21e"/>
+          <path id="Path_1805" data-name="Path 1805" d="M321.4,411.154H294.617V678.742h70.534V654.635H321.4Z" transform="translate(-27.315 -41.634)" fill="#fbb21e"/>
+          <path id="Path_1806" data-name="Path 1806" d="M484.074,411.154H458.628L423.36,555.8V411.154H396.575V678.742H423.36V609.233l12.5-49.018,21.875,118.526h27.232l-31.7-151.874Z" transform="translate(-39.99 -41.634)" fill="#fbb21e"/>
+            <rect id="Rectangle_1534" data-name="Rectangle 1534" width="21.875" height="37.768" transform="translate(457.024 599.34)" fill="#fbb21e"/>
+        </g>
+      </svg>
+  </div>
+
+  <div class="contactForge">
+    <svg id="Logo_Forge" xmlns="http://www.w3.org/2000/svg" width="206.355" height="103.058" viewBox="0 0 206.355 103.058">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" d="M-821.668,439.124h-4.313c-9.641,0-14.737,4.817-14.737,13.931V484.46c0,9.114,5.1,13.931,14.737,13.931h4.313c9.641,0,14.737-4.818,14.737-13.931V453.055C-806.931,443.941-812.027,439.124-821.668,439.124Zm3.492,13.625v32.018c0,2.448-1.04,3.4-3.709,3.4h-3.879c-2.669,0-3.709-.954-3.709-3.4V452.749c0-2.449,1.04-3.4,3.709-3.4h3.879C-819.216,449.346-818.176,450.3-818.176,452.749Z" transform="translate(873.545 -419.993)" fill="#fff"/>
+        <path id="Path_2" data-name="Path 2" d="M-671.5,442.987v-2.954h-11.246v58.046H-671.5V453.971c1.954-1.385,5.627-2.385,9.974-2.7l1.392-.1V439.524h-1.5A15.485,15.485,0,0,0-671.5,442.987Z" transform="translate(755.798 -420.291)" fill="#fff"/>
+        <path id="Path_3" data-name="Path 3" d="M-666.827,366.164H-776.7l-11.341,9.277h120.656c7.562.3,14.19,6.97,14.19,14.281l.042,30.576a13.6,13.6,0,0,1-13.679,13.486h-9.647c-4.554,0-7.989-3.657-7.989-8.505v-6.57h16.33a5.515,5.515,0,0,0,5.54-5.477V398.658c0-8.984-5.463-13.931-15.383-13.931h-3.017c-9.641,0-14.737,4.817-14.737,13.931v2.968l-.028.029v23.61a18.228,18.228,0,0,0,18.218,18.623h9.791l.625-.01a24.243,24.243,0,0,0,17.6-7.086,23.465,23.465,0,0,0,6.587-16.494V389.754A23.771,23.771,0,0,0-666.827,366.164Zm-17.636,42.219V397.8c.116-1.488.654-2.856,3.687-2.856h2.583c2.889,0,4.354,1.145,4.354,3.4v10.031Z" transform="translate(834.279 -365.596)" fill="#fff"/>
+        <path id="Path_4" data-name="Path 4" d="M-560.793,441.416a24.786,24.786,0,0,0-10.518-2.538c-7.417,0-12.024,4.752-12.024,12.4v23.157c0,7.65,4.607,12.4,12.024,12.4a24.005,24.005,0,0,0,10.518-2.394v7.311c0,2.035-.741,2.791-2.732,2.791h-6.158c-1.992,0-2.732-.756-2.732-2.791v-2.99h-10.7v3.3c0,7.865,4.846,12.2,13.646,12.2h5.621c9.491,0,14.3-4.515,14.3-13.421V439.489h-11.246Zm0,33.137a18.966,18.966,0,0,1-8.021,1.96c-2.357,0-3.276-.839-3.276-2.994V452.2c0-2.155.919-2.994,3.276-2.994a17.413,17.413,0,0,1,8.021,2.112Z" transform="translate(681.704 -419.809)" fill="#fff"/>
+        <path id="Path_5" data-name="Path 5" d="M-938.814,374.036h8.033l12.631-10.1h-21.694a20.667,20.667,0,0,0-20.765,20.163l-9.018-.012V394.2l9.015.012v48.017h10.831V394.2l9.584.013V384.1l-9.557-.013A10.917,10.917,0,0,1-938.814,374.036Z" transform="translate(969.628 -363.931)" fill="#fff"/>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(168.936 65.671)">
+        <g id="Group_5" data-name="Group 5" transform="translate(0)">
+          <g id="Group_4" data-name="Group 4">
+            <g id="Group_3" data-name="Group 3">
+              <g id="Group_2" data-name="Group 2">
+                <path id="Path_6" data-name="Path 6" d="M-279.26,683.354a4.159,4.159,0,0,1,4.154-4.15,4.174,4.174,0,0,1,3.4,1.76l-1.385,1.132a2.366,2.366,0,0,0-2.014-1.132,2.337,2.337,0,0,0-2.311,2.39,2.337,2.337,0,0,0,2.311,2.39,2.366,2.366,0,0,0,2.014-1.132l1.385,1.132a4.173,4.173,0,0,1-3.4,1.761,4.159,4.159,0,0,1-4.154-4.151" transform="translate(286.125 -664.66)" fill="#fcb31f"/>
+                <path id="Path_7" data-name="Path 7" d="M-240.856,686.187a.791.791,0,0,0,.83-.784.8.8,0,0,0-.83-.8h-2.125v1.58Zm-.55-3.093a.791.791,0,0,0,.83-.784.8.8,0,0,0-.83-.8h-1.575v1.58Zm-3.37-3.217h3.572a2.374,2.374,0,0,1,2.367,2.365,1.882,1.882,0,0,1-.561,1.367,2.048,2.048,0,0,1,1.122,1.861,2.376,2.376,0,0,1-2.412,2.365h-4.088Z" transform="translate(260.422 -665.162)" fill="#fcb31f"/>
+                <path id="Path_8" data-name="Path 8" d="M-210.617,679.877h-2.075l-1.621,2.426-1.621-2.426h-2.075l2.658,3.979-2.658,3.979h2.075l1.621-2.426,1.621,2.426h2.075l-2.658-3.979Z" transform="translate(240.472 -665.162)" fill="#fcb31f"/>
+                <path id="Path_9" data-name="Path 9" d="M-287.509,623.877a16.885,16.885,0,0,0-16.874,16.859,16.885,16.885,0,0,0,16.874,16.859,16.885,16.885,0,0,0,16.873-16.859,16.885,16.885,0,0,0-16.873-16.859m0,35.553a18.723,18.723,0,0,1-18.71-18.694,18.723,18.723,0,0,1,18.71-18.694,18.723,18.723,0,0,1,18.71,18.694,18.723,18.723,0,0,1-18.71,18.694" transform="translate(306.219 -622.042)" fill="#fcb31f"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </svg>
+
+  </div>
+
+  <div class="endForge">
+    <p class="forgeAhead">If you’re ready to <br>
+    forge ahead, or <br>
+      just want to learn <br>
+       more, contact us. </p>
+  </div>
+
+  <div class="touchBtn">
+    <button class="custom-btn btn-2"><span class="firstSpan">GET IN TOUCH</span></button>
+  </div>
+
+  <div class="Todd">
+    <p class="toddColor"><span class="toddFont"><span class="toddBold">TODD MAUTE</span>, <br>
+      PARTNER</span> <br>
+      <span class="email">todd@cbx.com</span>
+    </p>
+  </div>
+ 
+
+</div>
 
 
 <?php get_footer() ?>
