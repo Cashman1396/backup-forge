@@ -4,28 +4,43 @@
 <div class="banner"> 
 
   <div class="black-text">
-          <p>Brand-led </p>
-          <p>approach to </p> 
-          <p>volume design. </p>
+          <p>Brand-led <br>
+          approach to  <br>
+          volume design. </p>
 
-            <p class="ban-line"></p>
+          <p class="ban-line"></p>
 
-         <p>Want to learn more?</p>
+         <p><span class="webText">Want to learn more?</span></p>
   </div>
   
   <div class="tab-black-text">
-        <p>Brand-led approach </p> 
-        <p>to volume design. </p>
+        <p>Brand-led approach <br>
+        to volume design. </p>
 
           <p class="ban-line"></p>
 
         <p>Want to learn more?</p>
   </div>
 
+  
+
 
   <div class="ban-button">
     <button class="custom-btn btn-15"><span class="talk">TALK TO A HUMAN</span></button>
   </div>
+
+
+  <div class="tab-arrow">
+        <svg xmlns="http://www.w3.org/2000/svg" width="67" height="67" viewBox="0 0 67 67">
+            <g id="Group_985" data-name="Group 985" transform="translate(-716 -762)">
+            <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(716 762)" fill="none" stroke="#fff" stroke-width="5">
+              <circle cx="33.5" cy="33.5" r="33.5" stroke="none"/>
+              <circle cx="33.5" cy="33.5" r="31" fill="none"/>
+            </g>
+            <path id="Path_1807" data-name="Path 1807" d="M0,33.96,11.848,16.98,0,0" transform="translate(766.48 789.576) rotate(90)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="8"/>
+          </g>
+        </svg>
+    </div>
 
     <div class="forge-name">
         <svg id="Logo_Forge" xmlns="http://www.w3.org/2000/svg" width="460" height="229.885" viewBox="0 0 460 229.885">
@@ -51,6 +66,33 @@
                 </g>
             </g>
         </svg>
+    </div>
+
+    <div class="mobileForge">
+        <svg id="Logo_Forge" xmlns="http://www.w3.org/2000/svg" width="231.645" height="115.709" viewBox="0 0 231.645 115.709">
+  <g id="Group_1" data-name="Group 1">
+    <path id="Path_1" data-name="Path 1" d="M-819.333,439.124h-4.842c-10.823,0-16.543,5.409-16.543,15.641v35.261c0,10.232,5.72,15.641,16.543,15.641h4.842c10.823,0,16.543-5.409,16.543-15.641V454.765C-802.79,444.533-808.511,439.124-819.333,439.124Zm3.919,15.3V490.37c0,2.749-1.167,3.82-4.163,3.82h-4.354c-3,0-4.163-1.071-4.163-3.82V454.422c0-2.75,1.167-3.821,4.163-3.821h4.354C-816.581,450.6-815.414,451.672-815.414,454.422Z" transform="translate(877.568 -417.644)"/>
+    <path id="Path_2" data-name="Path 2" d="M-670.12,443.412V440.1h-12.624v65.171h12.624V455.744c2.194-1.555,6.317-2.677,11.2-3.03l1.563-.111V439.524h-1.683A17.38,17.38,0,0,0-670.12,443.412Z" transform="translate(764.752 -417.93)"/>
+    <path id="Path_3" data-name="Path 3" d="M-651.972,366.164H-775.306l-12.731,10.416h135.444c8.489.338,15.929,7.825,15.929,16.034l.048,34.329a15.267,15.267,0,0,1-15.356,15.141H-662.8c-5.113,0-8.968-4.105-8.968-9.55v-7.377h18.331a6.191,6.191,0,0,0,6.219-6.149V402.647c0-10.087-6.132-15.642-17.268-15.642h-3.387c-10.823,0-16.544,5.409-16.544,15.642v3.332l-.031.032v26.508c0,11.725,8.983,20.909,20.45,20.909h10.992l.7-.012a27.211,27.211,0,0,0,19.762-7.955,26.349,26.349,0,0,0,7.394-18.519V392.65A26.687,26.687,0,0,0-651.972,366.164Zm-19.8,47.4V401.689c.13-1.671.734-3.206,4.139-3.206h2.9c3.243,0,4.887,1.285,4.887,3.82v11.262Z" transform="translate(839.946 -365.526)"/>
+    <path id="Path_4" data-name="Path 4" d="M-558.03,441.728a27.82,27.82,0,0,0-11.807-2.85c-8.326,0-13.5,5.335-13.5,13.924v26c0,8.589,5.172,13.925,13.5,13.925a26.943,26.943,0,0,0,11.807-2.688v8.209c0,2.284-.831,3.134-3.067,3.134h-6.913c-2.236,0-3.067-.849-3.067-3.134v-3.357h-12.014v3.7c0,8.831,5.44,13.694,15.318,13.694h6.31c10.655,0,16.057-5.07,16.057-15.068V439.564H-558.03Zm0,37.205a21.287,21.287,0,0,1-9,2.2c-2.646,0-3.677-.942-3.677-3.362v-23.94c0-2.419,1.031-3.362,3.677-3.362,2.364,0,6.644.822,9,2.371Z" transform="translate(693.759 -417.469)"/>
+    <path id="Path_5" data-name="Path 5" d="M-935.038,375.276h9.017l14.179-11.345h-24.353a23.2,23.2,0,0,0-23.31,22.638l-10.123-.013v11.36l10.12.013v53.912h12.159V397.92l10.758.014v-11.36l-10.728-.015A12.256,12.256,0,0,1-935.038,375.276Z" transform="translate(969.628 -363.931)"/>
+  </g>
+  <g id="Group_6" data-name="Group 6" transform="translate(189.64 73.732)">
+    <g id="Group_5" data-name="Group 5" transform="translate(0)">
+      <g id="Group_4" data-name="Group 4">
+        <g id="Group_3" data-name="Group 3">
+          <g id="Group_2" data-name="Group 2">
+            <path id="Path_6" data-name="Path 6" d="M-279.26,683.863A4.669,4.669,0,0,1-274.6,679.2a4.685,4.685,0,0,1,3.815,1.977l-1.555,1.271a2.656,2.656,0,0,0-2.261-1.271,2.623,2.623,0,0,0-2.595,2.683,2.623,2.623,0,0,0,2.595,2.683,2.656,2.656,0,0,0,2.261-1.271l1.555,1.271a4.684,4.684,0,0,1-3.815,1.977,4.669,4.669,0,0,1-4.663-4.66" transform="translate(286.966 -662.875)" fill="#fff"/>
+            <path id="Path_7" data-name="Path 7" d="M-240.375,686.962a.888.888,0,0,0,.932-.881.9.9,0,0,0-.932-.894h-2.385v1.774Zm-.617-3.473a.888.888,0,0,0,.932-.881.9.9,0,0,0-.932-.894h-1.768v1.774Zm-3.783-3.612h4.009a2.665,2.665,0,0,1,2.657,2.655,2.114,2.114,0,0,1-.63,1.535,2.3,2.3,0,0,1,1.259,2.089,2.668,2.668,0,0,1-2.707,2.655h-4.589Z" transform="translate(262.339 -663.356)" fill="#fff"/>
+            <path id="Path_8" data-name="Path 8" d="M-209.711,679.877h-2.33l-1.819,2.724-1.819-2.724h-2.33l2.984,4.467-2.984,4.467h2.33l1.819-2.723,1.819,2.723h2.33l-2.984-4.467Z" transform="translate(243.225 -663.356)" fill="#fff"/>
+            <path id="Path_9" data-name="Path 9" d="M-285.216,624.1a18.957,18.957,0,0,0-18.942,18.929,18.956,18.956,0,0,0,18.942,18.929,18.956,18.956,0,0,0,18.941-18.929A18.956,18.956,0,0,0-285.216,624.1m0,39.917a21.019,21.019,0,0,1-21-20.988,21.019,21.019,0,0,1,21-20.989,21.019,21.019,0,0,1,21,20.989,21.019,21.019,0,0,1-21,20.988" transform="translate(306.219 -622.042)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
+</div>
 
 
     <div class="banner-arrow">
@@ -60,17 +102,7 @@
       </div>
     </div>
 
-    <div class="tab-arrow">
-        <svg xmlns="http://www.w3.org/2000/svg" width="67" height="67" viewBox="0 0 67 67">
-            <g id="Group_985" data-name="Group 985" transform="translate(-716 -762)">
-            <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(716 762)" fill="none" stroke="#fff" stroke-width="5">
-              <circle cx="33.5" cy="33.5" r="33.5" stroke="none"/>
-              <circle cx="33.5" cy="33.5" r="31" fill="none"/>
-            </g>
-            <path id="Path_1807" data-name="Path 1807" d="M0,33.96,11.848,16.98,0,0" transform="translate(766.48 789.576) rotate(90)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="8"/>
-          </g>
-        </svg>
-    </div>
+    
 
 </div>
 
@@ -145,14 +177,7 @@
 
 
   <div class="mobileBorder">
-    <svg xmlns="http://www.w3.org/2000/svg" width="365.244" height="169.382" viewBox="0 0 365.244 169.382">
-      <g id="Path_1759" data-name="Path 1759" transform="translate(70 1.863)" fill="none">
-        <path d="M-53.042,0H278.287c9.365,0,16.958,8.4,16.958,18.77v129.48c0,10.366-7.592,18.77-16.958,18.77H-70V18.77C-70,8.4-62.408,0-53.042,0Z" stroke="none"/>
-        <path d="M -53.0423583984375 11.99998474121094 C -55.72967529296875 11.99998474121094 -58 15.10011291503906 -58 18.76957702636719 L -58 155.01904296875 L 278.2866821289062 155.01904296875 C 280.9739990234375 155.01904296875 283.2443237304688 151.9189300537109 283.2443237304688 148.2494659423828 L 283.2443237304688 18.76957702636719 C 283.2443237304688 15.10011291503906 280.9739990234375 11.99998474121094 278.2866821289062 11.99998474121094 L -53.0423583984375 11.99998474121094 M -53.0423583984375 -1.52587890625e-05 L 278.2866821289062 -1.52587890625e-05 C 287.652099609375 -1.52587890625e-05 295.2443237304688 8.403396606445312 295.2443237304688 18.76957702636719 L 295.2443237304688 148.2494659423828 C 295.2443237304688 158.6156311035156 287.652099609375 167.0190582275391 278.2866821289062 167.0190582275391 L -70 167.0190582275391 L -70 18.76957702636719 C -70 8.403396606445312 -62.4078369140625 -1.52587890625e-05 -53.0423583984375 -1.52587890625e-05 Z" stroke="none" fill="#e7dbd0"/>
-      </g>
-        <path id="Path_1748" data-name="Path 1748" d="M1170.464,834.522l-9.92,13.964h-14.378l10.751-13.964h13.547" transform="translate(-1007.688 -834.022)" fill="#fcb31f" stroke="#fcb31f" stroke-width="1"/>
-        <path id="Path_1748-2" data-name="Path 1748" d="M1170.464,834.522l-9.92,12.639h-14.378l10.751-12.639h13.547" transform="translate(-881.294 -678.28)" fill="#fcb31f" stroke="#fcb31f" stroke-width="1"/>
-    </svg>
+    <img src="wp-content/uploads/2021/09/mobileBorder.png">
   </div>
 
 </div>
@@ -257,7 +282,7 @@
   </div>
 
   <div class="integrate">
-    <img src="http://forge30.local/wp-content/uploads/2021/08/forge-dia.png" alt="diamond">
+    <img src="wp-content/uploads/2021/08/forge-dia.png" alt="diamond">
 
 
     <h6>Integrated <br>
@@ -280,7 +305,7 @@
 
 
   <div class="strategy">
-    <img src="http://forge30.local/wp-content/uploads/2021/08/stair.png" alt="stairs">
+    <img src="wp-content/uploads/2021/08/stair.png" alt="stairs">
 
     <h6>Strategically <br> led</h6>
 
@@ -301,7 +326,7 @@
   </div>
 
   <div class="designFocus">
-    <img src="http://forge30.local/wp-content/uploads/2021/08/focus.png" alt="focus">
+    <img src="wp-content/uploads/2021/08/focus.png" alt="focus">
 
 
     <h6>Design <br>
@@ -323,7 +348,7 @@
   </div>
 
   <div class="central">
-    <img src="http://forge30.local/wp-content/uploads/2021/08/center.png">
+    <img src="wp-content/uploads/2021/08/center.png">
 
     <h6>Centralized <br>
         ecosystem
@@ -344,7 +369,7 @@
   </div>
 
   <div class="efficient">
-      <img src="http://forge30.local/wp-content/uploads/2021/08/Group-10.png">
+      <img src="wp-content/uploads/2021/08/Group-10.png">
       
       <h6>Efficient & cost <br>
          effective</h6>
@@ -484,6 +509,11 @@
           experienced in creating and managing large scale, <br>
           cross-category implementation programs.  
       </p>
+
+      <p class="tabPartWords">We have developed, designed and produced over 50,000 SKU’s for our <br>
+         clients. As brand development and design experts, we’re highly <br>
+         experienced in creating and managing large scale, cross-category <br>
+         implementation programs.  </p>
     </div>
 
   <div class="firstCase">

@@ -69,9 +69,13 @@ a, a:hover, button, button:hover {
     padding-left: 20%;
 }
 
+.mobileForge {
+  display: none;
+}
+
 .banner-arrow {
-    padding-top: 4%;
-    padding-left: 47%;
+    padding-top: 0%;
+    padding-left: 58%;
 
 }
 
@@ -505,6 +509,10 @@ a, a:hover, button, button:hover {
   line-height: 18px;
   padding-top: 3%;
   padding-left: 65%;
+}
+
+.tabPartWords {
+  display: none;
 }
 
 .partnerYellow {
@@ -1026,7 +1034,7 @@ a, a:hover, button, button:hover {
 
 /* 6 */
 .btn-6 {
-  background: rgb(247,150,192);
+  background: #FCB31F;
 background: radial-gradient(circle, rgba(247,150,192,1) 0%, rgba(118,174,241,1) 100%);
   line-height: 42px;
   padding: 0;
@@ -1196,8 +1204,7 @@ background: radial-gradient(circle, rgba(247,150,192,1) 0%, rgba(118,174,241,1) 
   perspective: 230px;
 }
 .btn-12 span {
-  background: rgb(0,172,238);
-background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
+  background: #FCB31F;
   display: block;
   position: absolute;
   width: 180px;
@@ -1368,6 +1375,7 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   
 /* 16 */
 .btn-16 {
+  background: #FCB31F;
   width: 180px;
   border: none;
   color: #000;
@@ -1411,7 +1419,12 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   }
   
   .forge-name {
-    padding-top: 15%;
+    padding-top: 12%;
+    padding-left: 25%;
+  }
+  
+  .mobileForge {
+    display: none;
   }
 
   .black-text {
@@ -1451,7 +1464,7 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   .tab-arrow {
     display: block;
     position: absolute;
-    padding-top: 55%;
+    padding-top: 98%;
     padding-left: 90%;
   }
 
@@ -1462,6 +1475,7 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   .section-text {
     position: absolute;
     padding-top: 15%;
+    padding-left: 25%;
   }
 
   .create-border {
@@ -1473,7 +1487,7 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   .tabBorder {
     display: block;
     position: absolute;
-    padding-left: 7%;
+    padding-left: 13%;
     padding-top: 5%;
   }
 
@@ -1489,7 +1503,7 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
     position: absolute;
     display: block;
     padding-top: 45%;
-    padding-left: 20%;
+    padding-left: 25%;
   }
 
   .forge-vertical {
@@ -1580,13 +1594,13 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   .forgeTools-white {
     margin-left: 0%;
     position: absolute;
-    margin-top: 57.5%;
-    height: 435px;
+    margin-top: 59%;
+    height: 438px;
   }
 
   .toolsArrow {
     padding-left: 152px;
-    margin-left: 45%;
+    margin-left: 44.5%;
     margin-top: 250px;
     transform: rotate(90deg); 
 }
@@ -1655,6 +1669,31 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   line-height: 20px;
 }
 
+/* Partner Tablet Section */
+
+.partner {
+  height: 1300px;
+}
+
+.partnerHead {
+  padding-left: 8%;
+}
+
+.partnerHead h3 {
+  font-size: 72px;
+}
+
+.partnerWords {
+  display: none;
+}
+
+.tabPartWords {
+  position: absolute;
+  display: block;
+  padding-top: 25%;
+  padding-left: 8%;
+}
+
 .partnerLoyal {
   display: none;
 }
@@ -1670,11 +1709,17 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   height: 115%;
   margin-left: 5%;
 
+} 
+
+.partnerWhite {
+  height: 1500px;
+  margin-left: 6%;
+  
 }
 
 .partnerYellow {
-  padding-top: 10%;
-  height: 750px;
+  padding-top: 35%;
+  height: 950px;
 }
 
 .Vice {
@@ -1691,6 +1736,52 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   font-size: 24px;
   padding-top: 7%;
 
+} 
+
+
+/* Cases */ 
+
+.firstCase {
+  padding-top: 70%;
+  padding-left: 25%;
+
+}
+
+.secondCase {
+  padding-top: 70%;
+  padding-left: 55%
+
+}
+
+.thirdCase {
+  padding-top: 105%;
+  padding-left: 25%
+}
+
+.fourthCase {
+  padding-left: 55%;
+  padding-top: 105%;
+}
+
+.fifthCase {
+  padding-left: 25%;
+  padding-top: 145%
+}
+
+.sixthCase {
+  padding-top: 145%;
+  padding-left: 55%
+}
+
+.seventhCase {
+  padding-left: 25%;
+  padding-top: 175%
+
+}
+
+.eighthCase {
+  padding-left: 55%;
+  padding-top: 175%;
 }
 
 
@@ -1698,5 +1789,67 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   padding-top: 50%;
   padding-left: 60%;
 }
-  
+
+.btn-9 {
+  background: #FCB31F;
 }
+  
+
+}
+
+
+@media only screen  and (max-width: 768px) {
+  .nav-logo {
+    padding-left: 1%;
+  }
+
+  .ham {
+    padding-left: 20%;
+  }
+  
+  .forge-name {
+    display: none;
+  }
+
+  .mobileForge {
+    display: block;
+    position: absolute;
+    padding-top: 10%;
+    padding-left: 30%
+  }
+  .tab-arrow {
+    display: none;
+  }
+
+  .tabBorder {
+    display: none;
+  }
+
+  .mobileBorder {
+    display:block;
+    margin-left: 15%;
+  }
+
+  .section-text {
+    font-size: 38px;
+  }
+
+  .black-text {
+    font-size: 26px;
+    
+    text-align: center;
+    padding-top: 60%;
+    padding-left: 28%;
+    display: block;
+    line-height: 70%;
+    color: #FCB31F;
+    font-weight: bold;
+  }
+
+  .tab-black-text {
+    display: none;
+  }
+
+}
+
+
