@@ -197,6 +197,10 @@ a, a:hover, button, button:hover {
   padding-top: 3%
 }
 
+.mobileAgile {
+  display: none;
+}
+
 .forge-vertical {
   border-left: solid white 3px;
   color: white;
@@ -358,6 +362,10 @@ a, a:hover, button, button:hover {
 .efficient p {
   font-size: 16px;
   line-height: 20px;
+}
+
+.Switcher {
+  display: none;
 }
 
 
@@ -583,7 +591,7 @@ a, a:hover, button, button:hover {
 }
 
 .firstSpan {
-  font-family: industry, sans-serif;
+  font-family: industry;
 }
 
 .secondCase {
@@ -701,6 +709,10 @@ a, a:hover, button, button:hover {
   position: absolute;
   padding-left: 73%;
   padding-top: 41%;
+}
+
+.tabContactForge{
+  display: none;
 }
 
 .footerText {
@@ -1586,6 +1598,10 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
     display: block;
   }
 
+  .Switcher {
+    display: none;
+  }
+
   .forgeTools {
     background: linear-gradient(180deg, rgba(252,179,31,1) 54%, rgba(231,219,208,1) 54%);
     height: 950px;
@@ -1793,7 +1809,41 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
 .btn-9 {
   background: #FCB31F;
 }
-  
+
+/* Ending Section */
+
+.contactTalk {
+  padding-top: 13%;
+}
+.forgeAhead {
+  font-size: 38px;
+  line-height: 32px;
+  padding-left: 10%;
+  padding-top: 10%;
+}
+
+.touchBtn {
+  padding-left: 58%;
+  padding-top: 32%;
+}
+
+.Todd {
+ padding-top: 65%;
+ padding-left: 55%
+}
+
+.tabContactForge {
+  position: absolute;
+  display: block;
+  padding-top: 73%;
+  padding-left: 78%;
+}
+ 
+.contactForge {
+  display: none;
+}
+
+
 
 }
 
@@ -1814,7 +1864,7 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   .mobileForge {
     display: block;
     position: absolute;
-    padding-top: 10%;
+    padding-top: 25%;
     padding-left: 30%
   }
   .tab-arrow {
@@ -1828,10 +1878,12 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   .mobileBorder {
     display:block;
     margin-left: 15%;
+    padding-top: 5%;
   }
 
   .section-text {
     font-size: 38px;
+
   }
 
   .black-text {
@@ -1849,6 +1901,133 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   .tab-black-text {
     display: none;
   }
+
+  .btn-15 {
+    width: 100%;
+  }
+
+  .ban-button {
+    padding-left: 31%;
+  }
+
+  .section-create {
+    height: 530px;
+  }
+
+
+  .tabExcerpt {
+    display: none;
+  }
+
+  .excerpt {
+    position: absolute;
+    display:block;
+    font-size: 16px;
+    padding-left: 20%;
+    padding-top: 50%;
+  }
+
+  /* Mobile Forge */
+
+  .brand-forge {
+    height: 890px;
+  }
+
+  .forge-text {
+    font-size: 22px;
+    padding-left: 10%;
+  }
+
+  .brand-line {
+    font-size: 32px;
+    padding-left: 10%;
+  }
+
+  .forge-agile {
+    display: none;
+  }
+
+  .mobileAgile {
+    display: block;
+    color:white;
+    font-size: 20px;
+    padding-left: 10%;
+    padding-top: 3%
+
+  }
+
+  .forge-vertical {
+    margin-left: 10%;
+    height: 430px;
+  }
+
+  .verticalText {
+    font-size: 32px;
+  }
+
+  .giantEagle {
+    font-size: 24px;
+  }
+
+  /* Principles */
+
+  .princeForge {
+    display: none;
+  }
+
+  .mobilePrince {
+    display: block;
+    color:white;
+    position: absolute;
+    font-size: 50px;
+    font-family: industry, sans-serif;
+    font-weight: bold;
+    padding-top: 5%;
+    padding-left: 10%;
+    line-height: 40px;
+  }
+
+  .Switcher {
+    display: block;
+    color:white;
+    padding-left: 30%;
+  }
+
+  .mobileInfuse {
+    display: block;
+  }
+
+  .mobileIntegrate {
+    display: block;
+  }
+
+  .infuse {
+    display: none
+  }
+
+  .integrate {
+    display: none;
+  }
+
+  .strategy{
+    display: none;
+  }
+
+  .designFocus {
+    display: none;
+  }
+
+  .central {
+    display: none;
+  }
+
+  .efficient {
+    display: none;
+  }
+
+
+
+ 
 
 }
 

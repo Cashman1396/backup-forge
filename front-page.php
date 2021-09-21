@@ -144,8 +144,9 @@
           extend strategic design systems… regardless of architectural <br>
           complexity. 
       </p>
+    </div>
 
-</div>
+    
     <div class="create-border">
     <svg xmlns="http://www.w3.org/2000/svg" width="1070" height="427.053" viewBox="0 0 1070 427.053">
         <g id="Rectangle_1485" data-name="Rectangle 1485" transform="translate(0 2.929)" fill="none" stroke="#e7dbd0" stroke-width="18">
@@ -204,6 +205,16 @@
         maintain brand design integrity. It’s what sets us apart.</p> 
     </div>
 
+    <div class="mobileAgile">
+    <p>Infused with Agile principles, Forge brings <br>
+    your  brand vision to life. While we follow <br>
+    defined guidelines and guardrails, we also <br>
+    understand flexibility may be needed to <br>
+   build and maintain brand design integrity. <br>
+    It’s what sets us apart.</p>
+
+    </div>
+
     <div class="forge-vertical">
         <p class="verticalText"> “15 minutes of design <br>
             oversight now can save <br> 
@@ -222,10 +233,16 @@
 
 </div>
 
+<!--- Principles Section ---->
+
 <div class="principles">
   <div class="tabPrince">
     <div class="prince">
         <p class="princeForge">PRINCIPLES THAT <br> GUIDE FORGE</p>
+    </div>
+
+    <div class="mobilePrince">
+      <p>PRINCIPLES <br> THAT GUIDE <br> FORGE</p>
     </div>
 
     <div class="princeDesign">
@@ -237,6 +254,9 @@
            process efficient and cost effective.
         </p>
     </div>
+
+    <div class="mobPrinceDesign">
+</div>
 
 
     <div class="infuse">
@@ -397,6 +417,163 @@
         <div>content</div>
         <div>content</div>
       </div>
+
+
+
+  <div class="Switcher">
+        <div class="mobileInfuse">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.908" height="54.956" viewBox="0 0 54.908 54.956">
+        <defs>
+          <clipPath id="clip-path">
+            <path id="Path_15" data-name="Path 15" d="M183.689,554.463a2.966,2.966,0,1,1-5.932,0h-1.736V515.112h9.7v39.351Z" fill="none"/>
+          </clipPath>
+          <clipPath id="clip-path-2">
+            <path id="Path_16" data-name="Path 16" d="M153.27,530.723a2.965,2.965,0,1,1,5.931,0h1.736v39.345h-9.7V530.723Z" fill="none"/>
+          </clipPath>
+        </defs>
+         <g id="Group_823" data-name="Group 823" transform="translate(-60.299 -2683.38)">
+          <line id="Line_3" data-name="Line 3" y2="39.742" transform="translate(112.238 2683.38)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+            <path id="Path_13" data-name="Path 13" d="M168.477,554.854a12.243,12.243,0,1,0,24.485,0" transform="translate(-80.724 2168.268)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+        <g id="Group_20" data-name="Group 20" transform="translate(-80.724 2168.268)">
+        <g id="Group_19" data-name="Group 19" clip-path="url(#clip-path)">
+          <line id="Line_6" data-name="Line 6" y1="42.321" transform="translate(180.719 515.112)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5.938"/>
+        </g>
+        </g>
+          <line id="Line_4" data-name="Line 4" y2="24.506" transform="translate(87.753 2698.616)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+            <path id="Path_14" data-name="Path 14" d="M168.477,530.348a12.243,12.243,0,1,0-24.485,0" transform="translate(-80.724 2168.268)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+        <g id="Group_22" data-name="Group 22" transform="translate(-80.724 2168.268)">
+        <g id="Group_21" data-name="Group 21" clip-path="url(#clip-path-2)">
+          <line id="Line_7" data-name="Line 7" y1="42.31" transform="translate(156.235 527.757)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5.938"/>
+        </g>
+        </g>
+          <line id="Line_5" data-name="Line 5" y2="39.72" transform="translate(63.269 2698.616)" fill="none" stroke="#fcb31f" stroke-miterlimit="10" stroke-width="5.938"/>
+        </g>
+      </svg>
+
+
+
+    <h6>Infusion of <br>
+      agile principles
+    </h6>
+
+     
+    <p>Maintaining focus & staying <br>
+      nimble saves time and <br>
+      money.
+    </p>
+  </div>
+
+  <div class="mobileIntegrate">
+    <img src="wp-content/uploads/2021/08/forge-dia.png" alt="diamond">
+
+
+    <h6>Integrated <br>
+    planning model</h6>
+
+     
+    <p class="integrate-para">Plan ahead with a <br>
+        detailed roadmap <br>
+        aligning to key roles <br>
+       and deliverables.
+    </p>
+
+    <p class="tabIntegrate">
+     Plan ahead with a detailed <br>
+     roadmap aligning to key <br>
+     roles and deliverables.
+    </p>
+  </div>
+
+
+
+  <div class="strategy">
+    <img src="wp-content/uploads/2021/08/stair.png" alt="stairs">
+
+    <h6>Strategically <br> led</h6>
+
+
+    <p class="strategy-para">Leverage a <br> 
+      foundation of brand, <br>
+      category, and <br>
+      shopper insights for <br>
+      optimal output.
+    </p>
+
+    <p class="tabStrategy">
+      Leverage a foundation of <br>
+      brand, category, and <br>
+      shopper insights for <br>   
+      optimal output.</p>
+
+  </div>
+
+  <div class="designFocus">
+    <img src="wp-content/uploads/2021/08/focus.png" alt="focus">
+
+
+    <h6>Design <br>
+          Focused
+      </h6>
+
+      <p class="design-para">Analyze, manage, <br>
+          and build upon visual <br>
+          assets to ensure a <br>
+           holistic roll-out.
+      </p>
+
+      <p class="tabDesign">
+        Analyze, manage, and build <br> 
+        upon visual assets to ensure <br>
+        a holistic roll-out.
+      </p>
+
+  </div>
+
+  <div class="central">
+    <img src="wp-content/uploads/2021/08/center.png">
+
+    <h6>Centralized <br>
+        ecosystem
+      </h6>
+
+
+      <p class="central-para">Deliver easy <br>
+          & efficient communication, <br>
+           collaboration, <br>
+          and approvals.
+      </p>
+
+      <p class="tabCentral">
+          Deliver easy & efficient <br> 
+          communication, <br>
+          collaboration, and approvals.
+      </p>
+  </div>
+
+  <div class="efficient">
+      <img src="wp-content/uploads/2021/08/Group-10.png">
+      
+      <h6>Efficient & cost <br>
+         effective</h6>
+
+
+      <p class="efficient-para">A customized <br>
+          approach based on <br>
+          need, complexity, <br>
+          and designer <br>
+          engagement, <br>
+          reduces re-work.
+      </p>
+
+      <p class="tabEfficient">A customized approach <br>
+        based on need, complexity, <br>
+        and designer engagement, <br>
+        reduces re-work.
+      </p>
+
+      </div>
+
+  </div>
 
 
 
@@ -644,6 +821,33 @@
         </g>
       </g>
     </svg>
+
+  </div>
+
+  <div class="tabContactForge">
+  <svg id="Logo_Forge" xmlns="http://www.w3.org/2000/svg" width="146" height="72.916" viewBox="0 0 146 72.916">
+  <g id="Group_1" data-name="Group 1">
+    <path id="Path_1" data-name="Path 1" d="M-827.24,439.124h-3.052c-6.821,0-10.427,3.408-10.427,9.856V471.2c0,6.448,3.605,9.857,10.427,9.857h3.052c6.821,0,10.427-3.409,10.427-9.857V448.98C-816.813,442.532-820.418,439.124-827.24,439.124Zm2.47,9.64v22.653c0,1.732-.736,2.407-2.624,2.407h-2.745c-1.888,0-2.624-.675-2.624-2.407V448.764c0-1.733.736-2.408,2.624-2.408h2.745C-825.505,446.356-824.769,447.031-824.769,448.764Z" transform="translate(863.943 -425.588)" fill="#fff"/>
+    <path id="Path_2" data-name="Path 2" d="M-674.787,441.974v-2.09h-7.957v41.068h7.957V449.745c1.383-.98,3.982-1.687,7.057-1.91l.985-.07v-8.242h-1.061A10.956,10.956,0,0,0-674.787,441.974Z" transform="translate(734.431 -425.916)" fill="#fff"/>
+    <path id="Path_3" data-name="Path 3" d="M-702.279,366.164h-77.734l-8.024,6.564h85.367c5.35.213,10.04,4.931,10.04,10.1l.03,21.633a9.621,9.621,0,0,1-9.678,9.541H-709.1a5.715,5.715,0,0,1-5.652-6.018v-4.648H-703.2a3.9,3.9,0,0,0,3.92-3.875v-10.31c0-6.356-3.865-9.857-10.883-9.857H-712.3c-6.822,0-10.427,3.408-10.427,9.857v2.1l-.02.02v16.7a12.9,12.9,0,0,0,12.889,13.176h6.928l.442-.007a17.152,17.152,0,0,0,12.456-5.013,16.6,16.6,0,0,0,4.661-11.67v-21.61A16.818,16.818,0,0,0-702.279,366.164Zm-12.478,29.871v-7.484c.082-1.053.463-2.021,2.608-2.021h1.828c2.044,0,3.08.81,3.08,2.408v7.1Z" transform="translate(820.754 -365.762)" fill="#fff"/>
+    <path id="Path_4" data-name="Path 4" d="M-567.386,440.674a17.537,17.537,0,0,0-7.442-1.8c-5.248,0-8.507,3.362-8.507,8.774v16.384c0,5.412,3.26,8.775,8.507,8.775a16.984,16.984,0,0,0,7.442-1.694v5.173c0,1.44-.524,1.975-1.933,1.975h-4.357c-1.409,0-1.933-.535-1.933-1.975v-2.116h-7.572v2.332c0,5.565,3.429,8.63,9.654,8.63h3.977c6.715,0,10.12-3.195,10.12-9.5v-36.33h-7.957Zm0,23.445a13.418,13.418,0,0,1-5.675,1.387c-1.668,0-2.318-.594-2.318-2.119V448.3c0-1.525.65-2.119,2.318-2.119a12.32,12.32,0,0,1,5.675,1.494Z" transform="translate(652.933 -425.387)" fill="#fff"/>
+    <path id="Path_5" data-name="Path 5" d="M-947.827,371.08h5.683l8.937-7.149h-15.349A14.622,14.622,0,0,0-963.248,378.2l-6.38-.008v7.159l6.378.008v33.973h7.663V385.35l6.781.009V378.2l-6.762-.009A7.724,7.724,0,0,1-947.827,371.08Z" transform="translate(969.628 -363.931)" fill="#fff"/>
+  </g>
+  <g id="Group_6" data-name="Group 6" transform="translate(119.525 46.463)">
+    <g id="Group_5" data-name="Group 5" transform="translate(0)">
+      <g id="Group_4" data-name="Group 4">
+        <g id="Group_3" data-name="Group 3">
+          <g id="Group_2" data-name="Group 2">
+            <path id="Path_6" data-name="Path 6" d="M-279.26,682.14a2.942,2.942,0,0,1,2.939-2.936,2.953,2.953,0,0,1,2.4,1.245l-.98.8a1.674,1.674,0,0,0-1.425-.8,1.653,1.653,0,0,0-1.635,1.691,1.653,1.653,0,0,0,1.635,1.691,1.674,1.674,0,0,0,1.425-.8l.98.8a2.953,2.953,0,0,1-2.4,1.246,2.943,2.943,0,0,1-2.939-2.937" transform="translate(284.117 -668.914)" fill="#fcb31f"/>
+            <path id="Path_7" data-name="Path 7" d="M-242,684.341a.56.56,0,0,0,.587-.555.566.566,0,0,0-.587-.563h-1.5v1.118Zm-.389-2.189a.56.56,0,0,0,.587-.555.566.566,0,0,0-.587-.563h-1.114v1.118Zm-2.384-2.276h2.527a1.679,1.679,0,0,1,1.675,1.673,1.331,1.331,0,0,1-.4.967,1.449,1.449,0,0,1,.794,1.316,1.681,1.681,0,0,1-1.706,1.673h-2.892Z" transform="translate(255.845 -669.466)" fill="#fcb31f"/>
+            <path id="Path_8" data-name="Path 8" d="M-212.779,679.877h-1.468l-1.147,1.716-1.147-1.716h-1.468l1.881,2.815-1.881,2.815h1.468l1.147-1.716,1.147,1.716h1.468l-1.881-2.815Z" transform="translate(233.902 -669.466)" fill="#fcb31f"/>
+            <path id="Path_9" data-name="Path 9" d="M-292.982,623.34a11.947,11.947,0,0,0-11.938,11.928A11.947,11.947,0,0,0-292.982,647.2a11.947,11.947,0,0,0,11.938-11.928,11.947,11.947,0,0,0-11.938-11.928m0,25.154a13.247,13.247,0,0,1-13.237-13.226,13.247,13.247,0,0,1,13.237-13.226,13.247,13.247,0,0,1,13.237,13.226,13.247,13.247,0,0,1-13.237,13.226" transform="translate(306.219 -622.042)" fill="#fcb31f"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
 
   </div>
 

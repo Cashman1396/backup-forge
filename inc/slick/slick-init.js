@@ -1,10 +1,9 @@
 (function($) {
-    $('.your-class').slick({
+    $('.Switcher').slick({
         dots: true,
         arrow: true
     }); 
 
-    $('.single-item').slick();
     
 
     })(jQuery);
