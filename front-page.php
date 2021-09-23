@@ -564,7 +564,7 @@
   </div>
 
   <div class="mobileEfficient">
-      <img src="wp-content/uploads/2021/08/Group-10.png">
+      <img src="wp-content/uploads/2021/09/YelSquare.png">
       
       <h6>Efficient & cost <br>
          effective</h6>
@@ -604,6 +604,15 @@
     </svg>
   </div>
 
+  <div class="mobileName">
+    <svg xmlns="http://www.w3.org/2000/svg" width="300.818" height="171.452" viewBox="0 0 300.818 171.452">
+      <g id="Group_878" data-name="Group 878" transform="translate(-416.942 -3467.401)">
+        <path id="Path_1757" data-name="Path 1757" d="M54.45,223.245V208.413H7.942v14.832H24.282v152.6H39.366v-152.6Zm57.318,125.949V235.061c0-16.844-11.313-28.659-24.888-28.659s-24.888,11.816-24.888,28.659V349.194c0,17.095,11.313,28.659,24.888,28.659S111.768,366.289,111.768,349.194Zm-15.084,3.017c0,5.782-3.771,10.307-9.8,10.307-6.285,0-9.8-4.525-9.8-10.307V232.044c0-5.531,3.52-10.307,9.8-10.307,6.034,0,9.8,4.777,9.8,10.307Zm77.179-3.017V235.061c0-16.844-11.313-28.659-24.888-28.659s-24.888,11.816-24.888,28.659V349.194c0,17.095,11.313,28.659,24.888,28.659S173.863,366.289,173.863,349.194Zm-15.084,3.017c0,5.782-3.771,10.307-9.8,10.307-6.285,0-9.8-4.525-9.8-10.307V232.044c0-5.531,3.52-10.307,9.8-10.307,6.033,0,9.8,4.777,9.8,10.307Zm68.38,23.631V360.759H202.522V208.413H187.438v167.43Zm57.067-30.167c0-17.6-8.045-36.955-17.6-57.318-10.307-21.62-16.341-34.693-16.341-54.3,0-9.05,4.022-13.324,10.559-13.324,5.531,0,8.547,4.777,8.547,14.832v23.883h14.33V235.061c0-17.095-8.8-28.659-22.626-28.659-17.849,0-25.391,13.827-25.391,33.184,0,17.346,11.061,42.737,19.106,59.329,9.05,18.855,14.832,34.441,14.832,51.285,0,9.3-3.017,14.581-10.81,14.581-5.782,0-9.8-6.285-9.8-14.581V326.82H234.449v22.626c0,16.844,9.3,28.408,24.888,28.408C269.393,377.853,284.226,371.82,284.226,345.675Z" transform="translate(409 3261)" fill="#fff"/>
+        <path id="Path_1758" data-name="Path 1758" d="M3.693,32.191H6.42V26.756h5.018V24.295H6.42V21.436h6.192v-2.5H3.693Zm17.837,0a2.319,2.319,0,0,0,2.651-2.651V21.587a2.319,2.319,0,0,0-2.651-2.651H16.664a2.319,2.319,0,0,0-2.651,2.651V29.54a2.319,2.319,0,0,0,2.651,2.651ZM16.739,21.814c0-.284.095-.379.379-.379h3.957c.284,0,.379.095.379.379v7.5c0,.284-.095.379-.379.379H17.118c-.284,0-.379-.095-.379-.379ZM36.716,32.191l-2.253-4.828c1.25-.227,1.837-1.079,1.837-2.575v-3.2a2.319,2.319,0,0,0-2.651-2.651H26.661V32.191h2.727V27.514h2.2l2.2,4.677Zm-7.328-7.1V21.4h3.806c.284,0,.379.095.379.379v2.935c0,.284-.095.379-.379.379Zm21.6-6.154v8.54l-5.018-8.54h-2.84V32.191h2.651V23.348l5.207,8.843h2.651V18.936Zm12.5,10.376.814,2.878H67.3L63.262,18.936H59.286L55.253,32.191h2.878l.814-2.878Zm-.7-2.5H59.646l1.572-5.567Zm13.5-5.415V18.936H66.367V21.4h3.6V32.191h2.727V21.4Zm1.78,10.793H80.8V18.936H78.069Zm12.724,0a2.319,2.319,0,0,0,2.651-2.651V21.587a2.319,2.319,0,0,0-2.651-2.651H85.927a2.319,2.319,0,0,0-2.651,2.651V29.54a2.319,2.319,0,0,0,2.651,2.651ZM86,21.814c0-.284.095-.379.379-.379h3.957c.284,0,.379.095.379.379v7.5c0,.284-.095.379-.379.379H86.382c-.284,0-.379-.095-.379-.379Zm17.78-2.878v8.54l-5.018-8.54h-2.84V32.191h2.651V23.348l5.207,8.843h2.651V18.936Zm12.5,10.376.814,2.878h2.992l-4.033-13.254h-3.976l-4.033,13.254h2.878l.814-2.878Zm-.7-2.5h-3.143l1.572-5.567Zm6.116-7.877V32.191h8.445v-2.5h-5.718V18.936ZM10.888,50.926a2.319,2.319,0,0,0,2.651-2.651V40.323a2.319,2.319,0,0,0-2.651-2.651H6.022a2.319,2.319,0,0,0-2.651,2.651v7.953a2.319,2.319,0,0,0,2.651,2.651ZM6.1,40.55c0-.284.095-.379.379-.379h3.957c.284,0,.379.095.379.379v7.5c0,.284-.095.379-.379.379H6.477c-.284,0-.379-.095-.379-.379ZM26.074,50.926,23.821,46.1c1.25-.227,1.837-1.079,1.837-2.575v-3.2a2.319,2.319,0,0,0-2.651-2.651H16.02V50.926h2.727V46.249h2.2l2.2,4.677Zm-7.328-7.1V40.133h3.806c.284,0,.379.095.379.379v2.935c0,.284-.095.379-.379.379Zm13.747-6.154V50.926H35.22V46.5H39.5a2.319,2.319,0,0,0,2.651-2.651V40.323A2.319,2.319,0,0,0,39.5,37.672ZM35.22,44V40.171h3.825c.284,0,.379.095.379.379v3.067c0,.284-.095.379-.379.379Zm18.992,6.93L51.958,46.1c1.25-.227,1.837-1.079,1.837-2.575v-3.2a2.319,2.319,0,0,0-2.651-2.651H44.157V50.926h2.727V46.249h2.2l2.2,4.677Zm-7.328-7.1V40.133h3.806c.284,0,.379.095.379.379v2.935c0,.284-.095.379-.379.379Zm9.392,7.1H59V37.672H56.275ZM72.048,37.672H69.132L66.386,47.915,63.641,37.672H60.649l4.109,13.254h3.181Zm7.176,10.376.814,2.878H83.03L79,37.672H75.021L70.988,50.926h2.878l.814-2.878Zm-.7-2.5H75.38l1.572-5.567Zm13.5-5.415V37.672H82.1v2.462h3.6V50.926h2.727V40.133Zm1.78-2.462V50.926h8.918v-2.5H96.531V45.378h5.018V42.917H96.531V40.171h6.192v-2.5Zm15.489,0V50.926h7.082c1.8,0,2.651-.852,2.651-3.692,0-1.931-.4-2.67-1.344-3.086.871-.473,1.193-1.155,1.193-2.935,0-2.689-.852-3.541-2.651-3.541Zm2.727,5.3v-2.84h3.749c.284,0,.379.095.379,1.42s-.095,1.42-.379,1.42Zm0,5.491V45.321h3.9c.284,0,.379.095.379,1.572s-.095,1.572-.379,1.572Zm19.314,2.462L129.08,46.1c1.25-.227,1.837-1.079,1.837-2.575v-3.2a2.319,2.319,0,0,0-2.651-2.651h-6.987V50.926h2.727V46.249h2.2l2.2,4.677Zm-7.328-7.1V40.133h3.806c.284,0,.379.095.379.379v2.935c0,.284-.095.379-.379.379Zm16.435,4.222.814,2.878h2.992l-4.033-13.254h-3.976L132.2,50.926h2.878l.814-2.878Zm-.7-2.5H136.6l1.572-5.567Zm13.974-7.877v8.54l-5.018-8.54h-2.84V50.926h2.651V42.084l5.207,8.843h2.651V37.672Zm5.453,0V50.926h7.252a2.319,2.319,0,0,0,2.651-2.651V40.323a2.319,2.319,0,0,0-2.651-2.651Zm2.727,10.755V40.171h4.071c.284,0,.379.095.379.379v7.5c0,.284-.095.379-.379.379Zm16.038-6.589h2.651V40.323a2.319,2.319,0,0,0-2.651-2.651h-4.09a2.319,2.319,0,0,0-2.651,2.651v2.045c0,1.7,1.06,2.367,2.727,2.727l3.522.757c.492.114.644.227.644.644v1.591c0,.284-.095.379-.379.379h-3.522c-.284,0-.379-.095-.379-.379V46.609h-2.651v1.666a2.319,2.319,0,0,0,2.651,2.651h4.355a2.319,2.319,0,0,0,2.651-2.651v-2.2c0-1.7-1.06-2.367-2.727-2.727l-3.522-.757c-.492-.114-.644-.227-.644-.644V40.512c0-.284.095-.379.379-.379h3.257c.284,0,.379.095.379.379Z" transform="translate(536.95 3560.207)"/>
+      </g>
+    </svg>
+  </div>
+
   <div class="toolsText">
     <p>Through our strategic understanding, passion for design <br> 
       intent consistency, and seamless workflow and tools; we’re <br>
@@ -612,11 +621,28 @@
        through prepress and color management.</p>
   </div>
 
-  <div class="mobiletoolsText">Through our strategic understanding, passion for design intent consistency, and seamless <br>
+  <div class="tabToolsText">Through our strategic understanding, passion for design intent consistency, and seamless <br>
         workflow and tools; we’re ready to successfully scale your brand. With Forge, you can <br>
         expect activation excellence from adaptation all the way through prepress and color <br>
         management.
     </div>
+
+  <div class="mobileArrowOne">
+    <svg xmlns="http://www.w3.org/2000/svg" width="139.949" height="57.026" viewBox="0 0 139.949 57.026">
+      <path id="Path_27" data-name="Path 27" d="M1014.645,527.6l46.828-67.113-46.828-67.113" transform="translate(530.458 -1010.545) rotate(90)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+    </svg>
+
+  </div>
+
+  <div class="mobileToolsText">
+      Through our strategic understanding, <br> 
+      passion for design intent consistency, and <br>
+      seamless workflow and tools; we’re ready <br>
+      to successfully scale your brand. With <br>
+      Forge, you can expect activation excellence <br>
+      from adaptation all the way through <br>
+      prepress and color management
+  </div>
 
   <div class="toolsPrivate">
         <h4>Private <br> Brands.</h4>
@@ -624,24 +650,40 @@
 
         <p class="toolsLine"></p>
 
-        <p class="toolsWord">Forge’s brand-led design process ensures <br>
+        <p class="privateWord">Forge’s brand-led design process ensures <br>
              brand clarity across the store and <br>
               strategically collaborates with a diverse <br>
               set of suppliers to minimize impact on cost <br>
                of goods.</p>
 
-        <p class="mobiletoolsWord">Forge’s brand-led design process <br>
+        <p class="tabPrivateWord">Forge’s brand-led design process <br>
            ensures brand clarity across the store <br>
             and strategically collaborates with a <br>
              diverse set of suppliers to minimize <br>
               impact on cost of goods.</p>
+
+
+        <p class="mobilePrivateWord">
+        Forge’s brand-led design process ensures <br>
+        brand clarity across the store and <br>
+        strategically collaborates with a diverse set <br>
+        of suppliers to minimize impact on cost of <br>
+       goods.
+
+        </p>
      </div>
+
+  <div class="mobileArrowTwo">
+    <svg xmlns="http://www.w3.org/2000/svg" width="139.949" height="57.026" viewBox="0 0 139.949 57.026">
+      <path id="Path_27" data-name="Path 27" d="M1014.645,527.6l46.828-67.113-46.828-67.113" transform="translate(530.458 -1010.545) rotate(90)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+    </svg>
+  </div>
 
   <div class="toolsNational">
       <h4 class="headerNation">CPG / National Brand <br>
         Adaptation.</h4>
 
-      <h4 class="mobileToolsNational">CPG / National <br>
+      <h4 class="tabToolsNational">CPG / National <br>
         Brand Adaptation.</h4>
   
 
@@ -651,7 +693,7 @@
     brand consistency with diversification and <br>
      consumer relevance.</p>
 
-     <p class="mobilenationalWord">Forge strategically balances the need for <br>
+     <p class="tabNationalWord">Forge strategically balances the need for <br>
     brand consistency with diversification <br> 
     and consumer relevance.</p>
 
@@ -662,16 +704,12 @@
   
 
   <div class="toolsArrow">
-  <svg xmlns="http://www.w3.org/2000/svg" width="114.26" height="304" viewBox="0 0 114.26 304">
-  <path id="Path_23" data-name="Path 23" d="M1014.645,691.649,1118.707,542.51,1014.645,393.371" transform="translate(-1010.545 -390.51)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
-</svg>
-
+      <svg xmlns="http://www.w3.org/2000/svg" width="114.26" height="304" viewBox="0 0 114.26 304">
+        <path id="Path_23" data-name="Path 23" d="M1014.645,691.649,1118.707,542.51,1014.645,393.371" transform="translate(-1010.545 -390.51)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+      </svg>
   </div>
 
-    <div class="forgeTools-white">
-     
-  
-  </div>
+    <div class="forgeTools-white"></div>
     
 
 

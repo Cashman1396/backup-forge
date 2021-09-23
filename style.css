@@ -420,7 +420,7 @@ a, a:hover, button, button:hover {
 
 .forgeTools {
   height: 600px;
-  background: linear-gradient(90deg, rgba(252,179,31,1) 54%, rgba(231,219,208,1) 54%);;
+  background: linear-gradient(90deg, rgba(252,179,31,1) 54%, rgba(231,219,208,1) 54%);
 }
 
 .forgeTools-white {
@@ -445,6 +445,10 @@ a, a:hover, button, button:hover {
   padding-left: 11%
 }
 
+.mobileName {
+  display: none;
+}
+
 .toolsText {
   position: absolute;
   padding-top: 29%;
@@ -453,7 +457,11 @@ a, a:hover, button, button:hover {
   font-size: 20px;
 }
 
-.mobiletoolsText {
+.tabToolsText {
+  display: none;
+}
+
+.mobileToolsText {
   display: none;
 }
 
@@ -475,12 +483,16 @@ a, a:hover, button, button:hover {
   
 }
 
-.toolsWord {
+.privateWord {
   font-size: 20px;
   line-height: 18px;
 }
 
-.mobiletoolsWord {
+.tabPrivateWord {
+  display: none;
+}
+
+.mobilePrivateWord {
   display: none;
 }
 
@@ -500,14 +512,21 @@ a, a:hover, button, button:hover {
   line-height: 18px;
 }
 
-.mobilenationalWord {
+.tabNationalWord {
   display: none;
 }
 
-.mobileToolsNational {
+.tabToolsNational {
   display: none;
 }
 
+.mobileArrowOne {
+  display: none;
+}
+
+.mobileArrowTwo {
+  display: none;
+}
 
 /* Partnerships Section */
 
@@ -680,6 +699,9 @@ a, a:hover, button, button:hover {
   padding-left: 80%;
   padding-top: 35%;
 }
+
+
+/* Contact Section */
 
 .Contact {
   background-color: black;
@@ -1670,6 +1692,10 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   padding-left: 5%;
 }
 
+.mobileName {
+  display: none;
+}
+
 .toolsPrivate {
   position: absolute;
   padding-left: 6%;
@@ -1685,7 +1711,7 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   display: none;
 }
 
-.mobiletoolsText {
+.tabToolsText {
   position: absolute;
   display: block;
   font-size: 18px;
@@ -1694,11 +1720,19 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   padding-left: 5%;
 }
 
-.mobiletoolsWord {
+.mobileToolsText {
+  display: none;
+}
+
+.tabtoolsWord {
   display: block;
   line-height: 20px;
   font-size: 18px;
   padding-top: 5%;
+}
+
+.mobileToolsWord {
+  display: none;
 }
 
 /* National CSS */
@@ -1709,7 +1743,7 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   position: absolute;
 }
 
-.mobileToolsNational {
+.tabToolsNational {
   display: block;
 
 }
@@ -1722,11 +1756,19 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   display: none;
 }
 
-.mobilenationalWord {
+.tabNationalWord {
   display: block;
   font-size: 18px;
   padding-top: 5%;
   line-height: 20px;
+}
+
+.mobileArrowOne {
+  display: none;
+}
+
+.mobileArrowTwo {
+  display: none;
 }
 
 /* Partner Tablet Section */
@@ -2085,18 +2127,41 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
   .mobileStrategy {
     display: block;
     text-align: center;
+    padding-right: 40%;
+  }
+
+  .mobileStrategy img {
+    padding-left: 35%;
   }
 
   .mobileDesignFocus {
     display: block;
+    text-align: center;
+    padding-right: 40%;
+  }
+
+  .mobileDesignFocus img {
+    padding-left: 35%;
   }
 
   .mobileCentral {
     display: block;
+    text-align: center;
+    padding-right: 40%;
+  }
+
+  .mobileCentral img {
+    padding-left: 35%;
   }
 
   .mobileEfficient {
     display: block;
+    text-align: center;
+    padding-right: 40%;
+  }
+
+  .mobileEfficient img {
+    padding-left: 35%;
   }
 
   .infuse {
@@ -2123,6 +2188,85 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
     display: none;
   }
 
+  /* Tools Section */
+
+  .forgeTools {
+    height: 1100px;
+  }
+  
+  .toolsName {
+    display:  none;
+  }
+
+  .mobileName {
+    display: block;
+    padding-left: 18%;
+    padding-top: 10%;
+  }
+
+  .toolsText {
+    display: none;
+  }
+
+  .tabToolsText {
+    display: none;
+  }
+
+  .mobileToolsText {
+    display: block;
+    padding-top: 10%;
+    padding-left: 20%;
+  }
+
+  .forgeTools-white {
+    margin-top: 15%;
+    height: 300px;
+    width: 100%;
+  }
+
+  .toolsPrivate {
+    padding-top: 25%;
+  }
+
+  .toolsWord {
+    display: none;
+  }
+
+  .tabToolsWords {
+    display: none;
+  }
+
+  .mobileToolsWord {
+      display: block;
+  }
+
+  .toolsArrow {
+    display: none;
+  }
+
+  .mobileArrowOne {
+    display: block;
+    position: absolute;
+    padding-top: 55%;
+    padding-left: 35%;
+    z-index: 1;
+  }
+
+  .mobileArrowTwo {
+    display: block;
+    position: absolute;
+    padding-top: 74%;
+    padding-left: 35%;
+    z-index: 1;
+   
+
+  }
+
+  .toolsNational {
+    padding-left: 7%;
+    padding-top: 90%;
+    z-index: 1;
+  }
 
 
  
