@@ -241,7 +241,7 @@
         <p class="princeForge">PRINCIPLES THAT <br> GUIDE FORGE</p>
     </div>
 
-    <div class="mobilePrince">
+    <div class="mobilePrinceForge">
       <p>PRINCIPLES <br> THAT GUIDE <br> FORGE</p>
     </div>
 
@@ -250,14 +250,20 @@
            efficiency of high volume adaptation<br>
            programs the most. Forge is grounded in <br>
            key principles that institute creativity, design, <br>
-           planning and technology to make our <br>
+           planning and technology to make <br> our 
            process efficient and cost effective.
         </p>
     </div>
 
     <div class="mobPrinceDesign">
-</div>
-
+    <p>Design and process is what drives the <br> 
+      efficiency of high volume adaptation<br>
+      programs the most. Forge is grounded in <br>
+      key principles that institute creativity, <br> design, 
+      planning and technology to make our <br>
+      process efficient and cost effective.
+    </p>
+    </div>
 
     <div class="infuse">
       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.908" height="54.956" viewBox="0 0 54.908 54.956">
@@ -295,10 +301,17 @@
     </h6>
 
      
-    <p>Maintaining focus & staying <br>
+    <p class="infuse-para">Maintaining focus & <br> 
+    staying nimble saves <br>
+    time and money.
+    </p>
+
+   
+    <p class="tabInfuse">Maintaining focus & staying <br>
       nimble saves time and <br>
       money.
     </p>
+    
   </div>
 
   <div class="integrate">
@@ -376,7 +389,7 @@
 
 
       <p class="central-para">Deliver easy <br>
-          & efficient communication, <br>
+          & efficient <br> communication, <br>
            collaboration, <br>
           and approvals.
       </p>
@@ -486,7 +499,7 @@
 
 
 
-  <div class="strategy">
+  <div class="mobileStrategy">
     <img src="wp-content/uploads/2021/08/stair.png" alt="stairs">
 
     <h6>Strategically <br> led</h6>
@@ -507,7 +520,7 @@
 
   </div>
 
-  <div class="designFocus">
+  <div class="mobileDesignFocus">
     <img src="wp-content/uploads/2021/08/focus.png" alt="focus">
 
 
@@ -529,7 +542,7 @@
 
   </div>
 
-  <div class="central">
+  <div class="mobileCentral">
     <img src="wp-content/uploads/2021/08/center.png">
 
     <h6>Centralized <br>
@@ -550,7 +563,7 @@
       </p>
   </div>
 
-  <div class="efficient">
+  <div class="mobileEfficient">
       <img src="wp-content/uploads/2021/08/Group-10.png">
       
       <h6>Efficient & cost <br>
